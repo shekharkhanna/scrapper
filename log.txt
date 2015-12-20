@@ -1,0 +1,6 @@
+2015-12-20 16:06:50,215 - root DEBUG: Using default logger
+2015-12-20 16:06:50,215 - root DEBUG: Using default logger
+2015-12-20 16:09:31,413 - root DEBUG: Using default logger
+2015-12-20 16:09:31,413 - root DEBUG: Using default logger
+2015-12-20 16:19:42,468 - root DEBUG: Using default logger
+2015-12-20 16:19:42,469 - root DEBUG: Using default logger

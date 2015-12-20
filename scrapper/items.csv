@@ -1,0 +1,101 @@
+city,rating,industry,title,homepage_available,phone,html5,address,homepage,email
+Darmstadt,0.0,Augenarzt,Dr. Hessemer Augenklinik GmbH,1,06151 406630,1,"Martinspfad 72, 64285, Darmstadt",http://www.hessemer-augen.de/,info@hessemer-augen.de
+Berlin,5.0,Zahnarzt und Kieferorthopäde,ZZB - Zahnmedizinisches Zentrum Berlin,1,030 7055090,1,"Bahnhofstr. 9, 12305, Berlin",http://www.zzb.de/,info@ZZB.de
+Usingen,0.0,Niedergelassene Zahnärzte für Kieferorthopädie,Fachpraxis für Kieferorthopädie Dr. Markus Schweitzer,1,06081 44490,0,"Wilhelmjstr. 2, 61250, Usingen",http://www.dr-schweitzer.de/,praxis@dr-schweitzer.de
+Mainz,0.0,Zahnarzt,Oralchirurgische Zaharztpraxis Dr. med. dent T. Tsantilis,1,06131 85464,0,"Heiligkreuzweg  90, 55130, Mainz",http://www.dr-tsantilis.de/,praxis@dr-tsantilis.de
+Frankfurt am Main,0.0,Chirurg,Eurion Privatklinik,1,069 50927611,0,"Eysseneckstr.  24, 60322, Frankfurt am Main",http://www.eurionprivatklinik.de/,info@eurion-privatklinik.de
+Berlin,0.0,Zahnarzt,Zahnarztpraxis Jacob und Jacob,1,030 3334807,1,"Carl-Schurz-Str.  35, 13597, Berlin",http://www.zahnarztjacob.de/,praxis@zahnarztjacob.de
+Berlin,0.0,Zahnarzt,Zahnarztpraxis im Gesundbrunnen-Center Berlin,1,030 4945040,0,"Badstr.  4, 13357, Berlin",http://www.gesunde-zaehne-lebenslang.de/,praxis@gesunde-zaehne-lebenslang.de
+Berlin,4.0,Augenarzt,Augenlaser-Zentrum Berlin Lichterfelde-West Dr. Christoph Wiemer und Dr. Dr. Peter Kaulen  ,1,030 84309176,1,"Drakestr.  31, 12205, Berlin",http://www.lasik-lasek-prk.de/,augenarzt@augen-berlin.de
+Frankfurt am Main,4.0,HNO-Arzt,Gemeinschaftspraxis Sachsenhausen,1,069 5077580,1,"Dreieichstr.  59, 60594, Frankfurt am Main",http://www.hno-doktor.de/,Info@HNO-Doktor.de
+Chemnitz,0.0,Zahnarzt,Zahnarztpraxis und Labor Lehnguth Liedtke Krabe & Kollegen,1,0371 427816,1,"Wilhelm-Külz-Platz 10, 09113, Chemnitz",http://www.lueckenlos-chemnitz.de/,rezeption@lehnguth.de
+Bad Oeynhausen,0.0,Stripclub & Tabledance,Agentur Gogofabrik,1,0177 8534542,1,"Bahnhofstr. 48, 32545, Bad Oeynhausen",http://www.gogo-fabrik.de,info@gogofabrik.de
+Erlangen,0.0,"Online Shop, Sexshop, Unterwäsche Versandhandel",Koeneke Dienstleistungen Ltd.,1,09131 9790280,1,"Buckenhoferweg 51, 91058, Erlangen",http://www.erostoys-shop.de/de/,info@erostoys-shop.de
+Berlin,0.0,"Erotische Massage, Massage",Spiritual Tantra Lounge,1,030 26079499,1,"Alt-Moabit 73, 10555, Berlin",http://www.spiritual-tantra.de,info@spiritual-tantra.de
+Berlin,0.0,"Stripclub & Tabledance, Unterhaltungskünstler",Mr.People Stripper Berlin,0,0176 61414562,0,"Weißenburger Str. 22, 13595, Berlin",http://www.mrpeople-stripper-berlin.com/,info@mrpeople-stripper-berlin.de
+Berlin,5.0,Sexshop,Der Peitschenbär,,0176 99324068,,"Türrschmidtstr. 37, 10317, Berlin",http://www.peitschenbaer.de,
+Darmstadt,4.0,Sauna- & Erotikclub,FKK Saunaclub Sharks,1,06151 957970,1,"Otto-Röhm Str. 72, 64293, Darmstadt",http://www.fkk-sharks.de/,fkk.sharks@gmx.de
+Berlin,5.0,Erotische Massage,V.I.P. Relax Erotik-Massagen,1,030 91548865,0,"Kantstr. 62, 10627, Berlin",http://www.VIPRelax.eu,Termin@VIPRelax.Berlin
+Frankfurt am Main,4.0,Erotische Massage,Pams Massage Lounge,,069 36603462,,"Alte Gasse 5, 60313, Frankfurt am Main",http://www.pams-lounge.de/,
+Köln,0.0,Augenarzt,sehkraft Augenzentrum,1,0221 860160,1,"Wolfsstr. 16, 50667, Köln",http://www.sehkraft.de/,mail@sehkraft.de
+Berlin,0.0,Augenarzt,sehkraft Augenzentrum,1,030 6204666,1,"Oberwallstr. 7, 10117, Berlin",http://www.sehkraft.de/,mail@sehkraft.de
+Hamburg,0.0,Orthopäde,Orthopädie an der Alster,1,040 46063660,0,"Eppendorfer Landstraße 77, 22299, Hamburg",http://www.orthopaedie-alster.de/,praxis@orthopaedie-alster.de
+Köln,0.0,Augenarzt,Augenzentrum Klinik links vom Rhein,1,0221 39800240,1,"Schillingsrotter Str.   39-41, 50996, Köln",http://www.augenchirurgie-koeln.de/,ophthalmochirurgie@links-vom-rhein.de
+Göppingen,5.0,Sexshop,Erotiklädle,,07161 8081270,,"Bleichstr. 5, 73033, Göppingen",http://www.erotiklaedle.eu,
+Köln,4.0,"Bar, Gay",COX-Cologne,1,0221 67764460,0,"Mühlenbach 53, 50676, Köln",http://www.cox-cologne.de/,info@cox-cologne.de
+Berlin,0.0,Zahnarzt,Zahnarztpraxis K.Bartsch-Munding und Kollegen,1,030 3951027,0,"Turmstr.  55, 10551, Berlin",http://www.zahnarztpraxis-tiergarten.de/,praxis@bartsch-munding.de
+Wuppertal,0.0,Zahnarzt und Kieferorthopäde,Zahnarztpraxis Dr. med. dent. Marcus Flach,1,0202 459021,0,"Wall 32, 42103, Wuppertal",http://www.dr-flach.de/,info@dr-flach.de
+Pfinztal,4.0,Zahnarzt und Kieferorthopäde,Zahnarztpraxis Dr. Regine Dressler,1,0721 463103,1,"Steigstr. 5, 76327, Pfinztal",http://www.implantologin.de/,dr_dressler@t-online.de
+Dortmund,0.0,Zahnarzt,"Hartmann, Dr. Dr. med. Norbert ",1,0231 5335877,0,"Köln-Berliner-Str. 1, 44287, Dortmund",http://www.zahnmundkiefergesicht.de/,kontakt@zahnmundkiefergesicht.de
+Bremen,5.0,Zahnarzt,Zahnarztpraxis Dr. Sylvia Loelke,1,0421 341214,1,"Hollerallee  35, 28209, Bremen",http://www.dr-loelke.de/,praxis@dr-loelke.de
+Hannover,0.0,Zahnarzt,Zahnarzt Dr. Dietrich Elberskirch,1,0511 14830,0,"Georgstr. 11, 30159, Hannover",http://www.dr-elberskirch.de/,rezeption@dr-elberskirch.de
+Berlin,0.0,Erotische Massage,Tantra Center Berlin,,030 26679498,,"Alt-Moabit 73, 10555, Berlin",http://www.erotic-massage-berlin.de/,
+Köln,3.0,"Gay, Schankwirtschaft",Deck5,1,0221 9926704,0,"Mathiasstr. 5, 50676, Köln",http://www.deck-5.de,info@deck-5.de
+Frankfurt am Main,5.0,Erotische Massage,Silhouette Massage Studio,1,069 37002655,1,"Westerbachstr. 179, 65936, Frankfurt am Main",http://www.silhouette-massage.de,info@silhouette-massage.de
+Marsberg,0.0,Sauna- & Erotikclub,Parkschloss Dali,1,02991 78156,1,"Madfelder Str. 2, 34431, Marsberg",http://www.parkschlossdali.de,info@parkschlossdali.de
+Köln,0.0,"Orion, Sexshop",ORION Erotikfachgeschäft Köln,,0221 218430,,"Blaubach 6-8, 50676, Köln",http://www.orion.de,
+Frankfurt am Main,0.0,Erotische Massage,Kaskade Erotik Massagestudio,1,069 15341529,0,"Stiftstr. 22, 60313, Frankfurt am Main",http://www.kaskade-massagestudio.de,kaskade-massagestudio@mailfish.de
+Frankfurt am Main,0.0,Erotische Massage,Orchidee Massage Frankfurt,1,069 95645265,1,"Carl-Benz-Str. 7, 60314, Frankfurt am Main",http://www.orchideemassage.com/,orchidee-massage@mailfish.de
+,,,Gay Sex Messe,,,,,,
+Bonn,0.0,HNO-Arzt,HNO Praxis Dr. med. Oliver Hofmann,1,0228 637466,0,"Markt  35, 53111, Bonn",http://www.hno-hofmann.de/,info@hno-hofmann.de
+Weinstadt,5.0,Niedergelassene Zahnärzte für Kieferorthopädie,Kieferorthopädie Dr. Michael Konik,1,07151 969400,1,"Strümpfelbacher Str.  21, 71384, Weinstadt",http://www.konik.de/,info@konik.de
+Köln,0.0,"Sexkino, Sexshop",Gay & Sex Center,,0221 2405771,,"Mathiasstr. 23, 50676, Köln",http://www.sexundgaycenter.com/,
+Dortmund,0.0,Plastischer Chirurg,Clinic im Centrum,1,0231 1657771,0,"Luisenstr. 14, 44137, Dortmund",http://www.clinic-im-centrum.de/,info@clinic-im-centrum.de
+Wesel,0.0,"Dienstleistung Unterhaltung & Erholung, Sexshop",X-Sin,1,0281 4058610,1,"Eva-Brinkman-Stege 7, 46485, Wesel",http://www.x-sin.de,kontakt@x-sin.de
+Chemnitz,0.0,"Online Shop, Sexshop",Lovertoys-Shop - Ero24-Online-Versand,1,0371 48189406,0,"Theaterstr. 15, 09111, Chemnitz",http://www.lovertoys-shop.de,support@lovertoys-shop.de
+Duisburg,0.0,"Chirurg, Krankenhaus",Klinik für Refraktive und Ophthalmo - Chirurgie des EJK Duisburg-Nord,1,0203 5081711,0,"Fahrner Str. 133, 47169, Duisburg",http://www.augenklinik-duisburg.de/,info@augenklinik-duisburg.de
+Frankfurt am Main,5.0,Zahnarzt,Praxis für Zahnheilkunde Leister & Schulz,1,069 66076655,0,"Walther-von-Cronberg-Platz  13, 60594, Frankfurt am Main",http://www.implantologie-frankfurt.net/,zahnarztpraxis@leister-schulz.de
+Stuttgart,0.0,Zahnarzt,Zahnarztpraxis Stephan Gelhaus,1,0711 6204544,0,"Curiestr. 4, 70563, Stuttgart",http://www.gelhaus.de/,stephan@gelhaus.de
+Frankfurt am Main,5.0,"Erotische Massage, Massage",Velvet Massagestudio,1,069 13384949,1,"Bleiden Str. 2, 60311, Frankfurt am Main",http://www.velvet-massage.de/,velvet.massagestudio@gmx.de
+Göppingen,0.0,"Möbel & Hausrat Einzelhandel, Sexshop",Birgit Rank Sweet Dreams,1,07161 250113,1,"Karl-Schurz-Str. 43, 73037, Göppingen",http://www.sm-equipment.com,info@sm-equipment.com
+Berlin,0.0,Sexshop,argjendbytyqi,0,021564165456,0,"kosmote 15484, 13585, Berlin",http://argjendbytyqi.com,argjend@argjendbytyqi.com
+Lüdenscheid,0.0,Zahnarzt und Kieferorthopäde,"Praxis für Zahn-, Mund- und Kieferheilkunde Dr. Nadine Griesenbrock",1,02351 4324333,1,"Knapper Str. 2, 58507, Lüdenscheid",http://www.zahnarztpraxis-griesenbrock.de/,info@zahnarztpraxis-griesenbrock.de
+Dresden,5.0,Gynäkologe (Frauenarzt),"Praxis für pränatale Diagnostik, Dres. med. Szendzielorz/Stein/Lausch",1,0351 4810511,0,"Friedrichstr. 32, 01067, Dresden",http://www.praenatal-dresden.de/,info@praenatal-dresden.de
+Rheda-Wiedenbrück,0.0,Sexshop,"Doll's Lounge, Barbig & Westphal GbR",1,05242189158,1,"Nelkenweg 26, 33378, Rheda-Wiedenbrück",http://www.dollslounge.de,info@dollslounge.de
+Stuttgart,0.0,Sexshop,Beate Uhse Lizenz. SJ discrete store,1,071148999466,1,"Flughafenstraße 43, Im Flughafen Stuttgart Terminal 3 Ebene 2, 70629, Stuttgart",http://www.discrete-store.com,info@discrete-store.com
+Köln,0.0,"Gay, Sauna",SAUNABAD VULCANO GmbH,1,0221 216051,0,"Marienplatz 3, 50676, Köln",http://www.sauna-vulcano.de,info@sauna-vulcano.de
+Köln,0.0,Urologe,"Urologie am Neumarkt, Dr. med Frank Conrad",1,0221 2806767,1,"Neumarkt 36-38, 50667, Köln",http://www.urologie-am-neumarkt.de/,info@urologie-am-neumarkt.de
+Dierdorf,5.0,Sauna- & Erotikclub,FKK-Club Finca Erotica,,02689 9729450,,"Poststr. 20, 56269, Dierdorf",http://www.finca-erotica.com/,
+Bonn,5.0,"Beate Uhse, Sexshop",Beate Uhse,,0228 633744,,"Bischofsplatz 4, 53111, Bonn",http://www.beate-uhse.com,
+Kaufering,0.0,"Bekleidung Einzelhandel, Sexshop, Unterwäsche Einzelhandel",4moments,1,0819166904,1,"Blumenweg 5, 86916, Kaufering",http://www.4-moments-kaufering.de,info@4-moments-kaufering.de
+Berlin,0.0,Zahnarzt und Kieferorthopäde,"Ahlring-Bonaventura, Dr. Christine",1,030 81059690,0,"Berliner Str. 3, 14169, Berlin",http://www.bonaventura-zahn.de/,chrbonaventura@aol.com
+Köln,5.0,Zahnarzt und Kieferorthopäde,Zahnärztliche Gemeinschaftspraxis Dres. Förster-Marenbach & Marenbach,1,02203 699470,1,"Kölner Str. 48, 51149, Köln",http://www.zahnarzt-koeln-porz.de/,zahnarztporz@aol.com
+Mannheim,0.0,Plastischer Chirurg,Mannheimer Klinik für Plastische Chirurgie,1,0621 152800,1,"Mollstr. 45, 68165, Mannheim",http://www.beautyclinic.de/,info@beautyclinic.de
+Bernkastel-Kues,0.0,Orthopäde,Orthopädische Praxis Dr. Martin Quarz,1,06531 921732,0,"Panoramastr., 54470, Bernkastel-Kues",http://www.drquarzmartin.homepage.t-online.de/,drquarz.reha@t-online.de
+Oppenau,0.0,Zahnarzt und Kieferorthopäde,Praxis Dr. med. dent. Alexander Oberle Master of Science,1,07804 3571,0,"Dreikönigweg 2, 77728, Oppenau",http://www.zahnarzt-oberle.de/,info@zahnarzt-oberle.de
+Essen/Ruhr,0.0,Zahnarzt,A - B - C Acht Ärzte im Team Dr. Herold und Kollegen,1,0201 233222,0,"Limbecker Platz 4, 45127, Essen/Ruhr",http://www.doktor-herold.de/,drthomasherold@yahoo.de
+Gevelsberg,0.0,"Betten & Bettwaren Einzelhandel, Sexshop",Schind-Luder GbR,1,02332 7886848,1,"Im Twiesack 1, 58285, Gevelsberg",http://www.schind-luder.de,info@schind-luder.de
+Koblenz,0.0,"Arzt für Naturheilkunde, Internist",Internistische Praxis Peter Emsbach,,0261 25061,,"Rübenacher Str. 5-6, 56072, Koblenz",http://www.emsbach.de/,
+Ingolstadt,0.0,Zahnarzt,"Gemeinschaftspraxis Dr. Dirk Müller-Busch, Dr. Astrid Wildenhof, Heidemarie Drechsler",,0841 56269,,"Hofmillerstr. 21, 85055, Ingolstadt",http://www.dr-mueller-busch.de/,
+Freital,0.0,"Partyservice & Catering, Sexshop, Unterwäsche Einzelhandel, Veranstaltungsorganisation",Ertupajoyz,1,035127684375,1,"Rabenauer Straße 30, 01705, Freital",http://www.Ertupajoyz.de,Ertupajoyz@gmail.com
+Duisburg,0.0,Erotische Massage,Danny Wellness,1,0176 92308098,1,"Brückenstr. 38, 47053, Duisburg",http://www.danny-wellnessclub.de,info@danny-wellnessclub.de
+Düsseldorf,0.0,Sexshop,CityBoys,1,02111697674,1,"Spichernstraße 50, Hinterhof, 40476, Düsseldorf",http://www.cityboys.eu,wiwo100@yahoo.de
+Mönchengladbach,0.0,Pathologe,Institut für Pathologie Dr. med. Rösler & Dr. med. Ortloff,1,02166 628900,0,"Limitenstr. 90, 41236, Mönchengladbach",http://www.patho-institut.de/,info@patho-institut.de
+Köln,0.0,Zahnarzt,Praxis für Zahnheilkunde - Dr. Günther Schlimbach,1,0221 631660,1,"Buschfeldstr. 31, 51067, Köln",http://www.drschlimbach.de/allesklar,kontakt@drschlimbach.de
+Bonn,0.0,"Allergologe, Arzt für Naturheilkunde, Dermatologe (Hautarzt)",Dr. med. Dr. troph. Gordana Rosen,,0228 637323,,"Friedensplatz 7, 53111, Bonn",http://www.dr-rosen.de/,
+Trier,0.0,"Bekleidung Einzelhandel, Sexshop",Boutique SECRETS,1,01523 4145286,1,"Margaretengässchen 2, 54290, Trier",http://www.secrets-trier.de,secrets.trier@gmail.com
+Detmold,0.0,"Kosmetik & Körperpflege Versandhandel, Sexshop",Ahlantis GbR Elena & Marco Schulze,1,05231 8795541,1,"Alter Mühlenweg 2, 32760, Detmold",http://www.ahlantis.de,info@ahlantis.de
+Norderstedt,0.0,"Künstleragentur, Sexshop",stripper-kiel,1,04031709986,1,"Glojenbarg 26, 22848, Norderstedt",http://www.stripper-kiel.com,info@strip-hamburg.de
+Bad Blankenburg,0.0,"Bar, Bar, Kino, Sexshop",Star-Erotic B88,1,036741589540,1,"Rudolstädter Straße 35, B88 Landstraße, 07422, Bad Blankenburg",http://www.starerotic-b88.de,info@starerotic-b88.de
+Hamburg,0.0,"Sexkino, Sexshop",Seventhheaven LTD&CoKg,1,040 28056392,0,"Steindamm 14, 20099, Hamburg",http://www.seventhheaven.de,christa.grabbert@seventhheaven.de
+Essen/Ruhr,5.0,Chirurg,LASER Forum Essen GmbH,1,0201 1892998,0,"Theaterplatz 1, 45127, Essen/Ruhr",http://www.lf-essen.de/,info@lf-essen.de
+Köln,0.0,Zahnarzt,"Laig, Dr.med.dent. Oliver",1,0221 37996639,1,"Hohenzollernring 2-10, 50672, Köln",http://www.zahnarzt-am-rudolfplatz.de/,kontakt@zahnarzt-am-rudolfplatz.de
+Moers,0.0,Zahnarzt,Zahnärztliche Gemeinschaftspraxis Dr. Andreas Grundmann & Ursula Böhme,1,02841 21010,0,"Homberger Str. 72, 47441, Moers",http://www.zahnschmerz24.de/,andygrundmann@gmx.de
+Bad Soden am Taunus,0.0,Zahnarzt,Kinder- und Jugendzahnmedizin Dr. Andrea Galm,1,06196 9997996,0,"Königsteiner Str. 122, 65812, Bad Soden am Taunus",http://www.zahnwunderland.de/,info@zahnwunderland.de
+München,0.0,Zahnarzt,Gemeinschaftspraxis für Kinderzahnheilkunde Dr. Butz & Kollegen,1,089 3832900,0,"Marschallstr. 11, 80802, München",http://www.deinekinderzahnaerztin.de/,info@deinekinderzahnaerztin.de
+München,0.0,Augenarzt,"Zarth, Dr. med. Andreas",1,089 20207373,1,"Theatinerstr. 15, 80333, München",http://www.augenarzt-fuenf-hoefe.de/,mail@augenarzt-fuenf-hoefe.de
+Reutlingen,0.0,"Tierarzt, Tierklinik",Kleintierklinik Hüttig,1,07121 93210,0,"Kurrerstr.  40-3, 72762, Reutlingen",http://www.tierklinik-huettig.de/,anmeldung@tierklinik-huettig.de
+Berlin,0.0,"Sauna- & Erotikclub, Stripclub & Tabledance",Chez Michelle,1,030 23607236,1,"Marburger Str. 15, 10789, Berlin",http://www.chez-michelle.de/,info@chez-michelle.de
+Karlsruhe,5.0,"Allergologe, Dermatologe (Hautarzt)",Praxis Dr. Krull,1,0721  913500,0,"Leopoldstr. 5, 76133, Karlsruhe",http://www.dr-krull.de/,post@dr-krull.de
+Gelsenkirchen,0.0,Zahnarzt,Zahnarztpraxis Dr. Victor Barna,1,0209 22718,1,"Ahstr. 8, 45879, Gelsenkirchen",http://www.dr-barna.de/,info@dr-barna.de
+Bahlingen,0.0,Zahnarzt,Zahnarztpraxis Marcus Hamschmidt,1,07663 3988,0,"Riegelerstr. 3, 79353, Bahlingen",http://www.zahnarzt-hamschmidt.de/,info@zahnarzt-hamschmidt.de
+Berlin,0.0,"Massage, Sexshop",Dreamland,1,03034660184,1,"Danziger Straße 197, bei Massagen klingeln, 10407, Berlin",http://www.dreamland-berlin.de,dreamland-massagen@t-online.de
+Nürnberg,0.0,Erotische Massage,Deluxe Massagen,1,0911 5963573,0,"Hillerstr. 6, 90429, Nürnberg",http://www.deluxe-massagen.com,studio@deluxe-massagen.com
+Rüsselsheim am Main,0.0,"Redaktion, Sexshop",monadikosescort,1,061424006183,0,"Uranstraße 10, 65428, Rüsselsheim am Main",http://www.monadikosescort.de,info@monadikosescort.de
+Hamburg,0.0,Sexshop,masculan / M.P.I. Pharmaceutica,1,0403037240,0,"An der Alster 47, 20099, Hamburg",http://www.masculan.de,info@mpi-pharma.de
+Berlin,0.0,Erotische Massage,Massagen-privat,1,0174 3679760,0,"Friesickestr. 33, 13086, Berlin",http://www.massagen-privat.de,massagen-privat@t-online.de
+Leipzig,0.0,Erotische Massage,Magic Moments Massagelounge,1,0341 23659782,1,"Föpplstr. 14, 04347, Leipzig",http://www.magic-moments-leipzig.de,info@magic-moments-leipzig.de
+Essen/Ruhr,0.0,"Bekleidung Einzelhandel, Damenbekleidung Einzelhandel, Schuhe Einzelhandel, Sexshop, Unterwäsche Einzelhandel",Kinky Lady,1,020136538810,0,"Flachsmarkt 4, 45127, Essen/Ruhr",http://www.kinkylady.de,info@kinkylady.de
+Erfurt,0.0,Sexshop,Express18.de - S&L Handels GbR,1,0361 54183527,0,"Spielbergtor 12 d, 99099, Erfurt",http://www.express18.de,info@express18.de
+Nürnberg,0.0,"Online Shop, Sexshop",heissehimbeere24 - Anna Jäger,1,0911 96585915,1,"Winterstr. 8, 90431, Nürnberg",http://www.heissehimbeere24.de/,info@heissehimbeere24.de
+Berlin,0.0,"Diskothek, Sauna- & Erotikclub",Insomnia Erotic Nightclub,1,030 91909891,1,"Alt-Tempelhof 17 - 19, 12099, Berlin",http://www.insomnia-berlin.de,dominique@insomnia-berlin.de

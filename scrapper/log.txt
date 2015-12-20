@@ -1,0 +1,2290 @@
+2015-12-20 16:28:57,824 - germany INFO: Items on page= 11 <200 http://branchenbuch.meinestadt.de/deutschland/suche?words=doktor>
+2015-12-20 16:28:57,826 - germany ERROR: Error occured list index out of range
+2015-12-20 16:28:57,826 - germany INFO: http://branchenbuch.meinestadt.de/darmstadt-wissenschaftsstadt/firma/dr-hessemer-augenklinik-gmbh
+2015-12-20 16:28:57,827 - germany INFO: http://branchenbuch.meinestadt.de/frankfurt-am-main/firma/gemeinschaftspraxis-sachsenhausen
+2015-12-20 16:28:57,828 - germany INFO: http://branchenbuch.meinestadt.de/chemnitz/firma/zahnarztpraxis-und-labor-lehnguth-liedtke-krabe-und-kollegen
+2015-12-20 16:28:57,830 - germany INFO: http://branchenbuch.meinestadt.de/berlin/firma/augenlaser-zentrum-berlin-lichterfelde-west-dr-christoph-wiemer-und-dr-dr-peter-kaulen
+2015-12-20 16:28:57,831 - germany INFO: http://branchenbuch.meinestadt.de/frankfurt-am-main/firma/eurion-privatklinik
+2015-12-20 16:28:57,831 - germany INFO: http://branchenbuch.meinestadt.de/usingen/firma/fachpraxis-fuer-kieferorthopaedie-dr-markus-schweitzer
+2015-12-20 16:28:57,832 - germany INFO: http://branchenbuch.meinestadt.de/mainz/firma/oralchirurgische-zaharztpraxis-dr-med-dent-t-tsantilis
+2015-12-20 16:28:57,832 - germany INFO: http://branchenbuch.meinestadt.de/berlin/firma/zahnarztpraxis-jacob-und-jacob
+2015-12-20 16:28:57,833 - germany INFO: http://branchenbuch.meinestadt.de/berlin/firma/zahnarztpraxis-im-gesundbrunnen-center-berlin
+2015-12-20 16:28:57,833 - germany INFO: http://branchenbuch.meinestadt.de/berlin/firma/zzb-zahnmedizinisches-zentrum-berlin
+2015-12-20 16:28:57,834 - germany INFO: Next page found
+2015-12-20 16:28:58,292 - germany INFO: Inside list item
+2015-12-20 16:28:58,305 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.lueckenlos-chemnitz.de
+2015-12-20 16:28:59,325 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:28:59,378 - germany INFO: item = {'address': u'Wilhelm-K\xfclz-Platz 10, 09113, Chemnitz',
+ 'city': u'Chemnitz',
+ 'email': 'rezeption@lehnguth.de',
+ 'homepage': u'http://www.lueckenlos-chemnitz.de/',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Zahnarzt',
+ 'phone': u'0371 427816',
+ 'rating': 0.0,
+ 'title': u'Zahnarztpraxis und Labor Lehnguth Liedtke Krabe & Kollegen'}
+2015-12-20 16:28:59,482 - germany INFO: Inside list item
+2015-12-20 16:28:59,493 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.hessemer-augen.de
+2015-12-20 16:28:59,864 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:29:00,170 - germany INFO: item = {'address': u'Martinspfad 72, 64285, Darmstadt',
+ 'city': u'Darmstadt',
+ 'email': 'info@hessemer-augen.de',
+ 'homepage': u'http://www.hessemer-augen.de/',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Augenarzt',
+ 'phone': u'06151 406630',
+ 'rating': 0.0,
+ 'title': u'Dr. Hessemer Augenklinik GmbH'}
+2015-12-20 16:29:00,182 - germany INFO: Inside list item
+2015-12-20 16:29:00,192 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.zahnarztjacob.de
+2015-12-20 16:29:01,355 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 301 0
+2015-12-20 16:29:01,356 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): zahnarztjacob.de
+2015-12-20 16:29:02,164 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:29:02,800 - germany INFO: item = {'address': u'Carl-Schurz-Str.  35, 13597, Berlin',
+ 'city': u'Berlin',
+ 'email': 'praxis@zahnarztjacob.de',
+ 'homepage': u'http://www.zahnarztjacob.de/',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Zahnarzt',
+ 'phone': u'030 3334807',
+ 'rating': 0.0,
+ 'title': u'Zahnarztpraxis Jacob und Jacob'}
+2015-12-20 16:29:02,800 - germany INFO: Inside list item
+2015-12-20 16:29:02,814 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.dr-schweitzer.de
+2015-12-20 16:29:03,674 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:29:03,823 - germany INFO: item = {'address': u'Wilhelmjstr. 2, 61250, Usingen',
+ 'city': u'Usingen',
+ 'email': 'praxis@dr-schweitzer.de',
+ 'homepage': u'http://www.dr-schweitzer.de/',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Niedergelassene Zahn\xe4rzte f\xfcr Kieferorthop\xe4die',
+ 'phone': u'06081 44490',
+ 'rating': 0.0,
+ 'title': u'Fachpraxis f\xfcr Kieferorthop\xe4die Dr. Markus Schweitzer'}
+2015-12-20 16:29:03,824 - germany INFO: Inside list item
+2015-12-20 16:29:03,839 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.eurionprivatklinik.de
+2015-12-20 16:29:04,201 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:29:04,359 - germany INFO: item = {'address': u'Eysseneckstr.  24, 60322, Frankfurt am Main',
+ 'city': u'Frankfurt am Main',
+ 'email': 'info@eurion-privatklinik.de',
+ 'homepage': u'http://www.eurionprivatklinik.de/',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Chirurg',
+ 'phone': u'069 50927611',
+ 'rating': 0.0,
+ 'title': u'Eurion Privatklinik'}
+2015-12-20 16:29:04,360 - germany INFO: Inside list item
+2015-12-20 16:29:04,372 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.gesunde-zaehne-lebenslang.de
+2015-12-20 16:29:05,186 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 10499
+2015-12-20 16:29:05,188 - germany INFO: item = {'address': u'Badstr.  4, 13357, Berlin',
+ 'city': u'Berlin',
+ 'email': 'praxis@gesunde-zaehne-lebenslang.de',
+ 'homepage': u'http://www.gesunde-zaehne-lebenslang.de/',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Zahnarzt',
+ 'phone': u'030 4945040',
+ 'rating': 0.0,
+ 'title': u'Zahnarztpraxis im Gesundbrunnen-Center Berlin'}
+2015-12-20 16:29:05,188 - germany INFO: Inside list item
+2015-12-20 16:29:05,202 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.dr-tsantilis.de
+2015-12-20 16:29:06,389 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 3862
+2015-12-20 16:29:06,390 - germany INFO: item = {'address': u'Heiligkreuzweg  90, 55130, Mainz',
+ 'city': u'Mainz',
+ 'email': 'praxis@dr-tsantilis.de',
+ 'homepage': u'http://www.dr-tsantilis.de/',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Zahnarzt',
+ 'phone': u'06131 85464',
+ 'rating': 0.0,
+ 'title': u'Oralchirurgische Zaharztpraxis Dr. med. dent T. Tsantilis'}
+2015-12-20 16:29:06,391 - germany INFO: Inside list item
+2015-12-20 16:29:06,404 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.hno-doktor.de
+2015-12-20 16:29:06,743 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 301 317
+2015-12-20 16:29:06,744 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.hno-zentrum-frankfurt.de
+2015-12-20 16:29:07,183 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 301 0
+2015-12-20 16:29:07,185 - requests.packages.urllib3.connectionpool INFO: Resetting dropped connection: www.hno-zentrum-frankfurt.de
+2015-12-20 16:29:08,144 - requests.packages.urllib3.connectionpool DEBUG: "GET /de/index.php HTTP/1.1" 200 None
+2015-12-20 16:29:08,306 - germany INFO: item = {'address': u'Dreieichstr.  59, 60594, Frankfurt am Main',
+ 'city': u'Frankfurt am Main',
+ 'email': 'Info@HNO-Doktor.de',
+ 'homepage': u'http://www.hno-doktor.de/',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'HNO-Arzt',
+ 'phone': u'069 5077580',
+ 'rating': 4.0,
+ 'title': u'Gemeinschaftspraxis Sachsenhausen'}
+2015-12-20 16:29:08,307 - germany INFO: Inside list item
+2015-12-20 16:29:08,321 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.zzb.de
+2015-12-20 16:29:08,655 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 301 289
+2015-12-20 16:29:08,656 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): zzb.de
+2015-12-20 16:29:10,518 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:29:10,519 - germany INFO: item = {'address': u'Bahnhofstr. 9, 12305, Berlin',
+ 'city': u'Berlin',
+ 'email': 'info@ZZB.de',
+ 'homepage': u'http://www.zzb.de/',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Zahnarzt und Kieferorthop\xe4de',
+ 'phone': u'030 7055090',
+ 'rating': 5.0,
+ 'title': u'ZZB - Zahnmedizinisches Zentrum Berlin'}
+2015-12-20 16:29:10,531 - germany INFO: Inside list item
+2015-12-20 16:29:10,543 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.lasik-lasek-prk.de
+2015-12-20 16:29:11,100 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 301 234
+2015-12-20 16:29:11,101 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.augen-berlin.de
+2015-12-20 16:29:12,363 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:29:12,516 - germany INFO: item = {'address': u'Drakestr.  31, 12205, Berlin',
+ 'city': u'Berlin',
+ 'email': 'augenarzt@augen-berlin.de',
+ 'homepage': u'http://www.lasik-lasek-prk.de/',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Augenarzt',
+ 'phone': u'030 84309176',
+ 'rating': 4.0,
+ 'title': u'Augenlaser-Zentrum Berlin Lichterfelde-West Dr. Christoph Wiemer und Dr. Dr. Peter Kaulen  '}
+2015-12-20 16:29:36,728 - germany INFO: Items on page= 11 <200 http://branchenbuch.meinestadt.de/deutschland/suche?words=doktor>
+2015-12-20 16:29:36,731 - germany ERROR: Error occured list index out of range
+2015-12-20 16:29:36,731 - germany INFO: http://branchenbuch.meinestadt.de/darmstadt-wissenschaftsstadt/firma/dr-hessemer-augenklinik-gmbh
+2015-12-20 16:29:36,732 - germany INFO: http://branchenbuch.meinestadt.de/frankfurt-am-main/firma/gemeinschaftspraxis-sachsenhausen
+2015-12-20 16:29:36,733 - germany INFO: http://branchenbuch.meinestadt.de/chemnitz/firma/zahnarztpraxis-und-labor-lehnguth-liedtke-krabe-und-kollegen
+2015-12-20 16:29:36,733 - germany INFO: http://branchenbuch.meinestadt.de/berlin/firma/augenlaser-zentrum-berlin-lichterfelde-west-dr-christoph-wiemer-und-dr-dr-peter-kaulen
+2015-12-20 16:29:36,734 - germany INFO: http://branchenbuch.meinestadt.de/frankfurt-am-main/firma/eurion-privatklinik
+2015-12-20 16:29:36,734 - germany INFO: http://branchenbuch.meinestadt.de/usingen/firma/fachpraxis-fuer-kieferorthopaedie-dr-markus-schweitzer
+2015-12-20 16:29:36,735 - germany INFO: http://branchenbuch.meinestadt.de/mainz/firma/oralchirurgische-zaharztpraxis-dr-med-dent-t-tsantilis
+2015-12-20 16:29:36,735 - germany INFO: http://branchenbuch.meinestadt.de/berlin/firma/zahnarztpraxis-jacob-und-jacob
+2015-12-20 16:29:36,736 - germany INFO: http://branchenbuch.meinestadt.de/berlin/firma/zahnarztpraxis-im-gesundbrunnen-center-berlin
+2015-12-20 16:29:36,736 - germany INFO: http://branchenbuch.meinestadt.de/berlin/firma/zzb-zahnmedizinisches-zentrum-berlin
+2015-12-20 16:29:36,737 - germany INFO: Next page found
+2015-12-20 16:29:37,183 - germany INFO: Inside list item
+2015-12-20 16:29:37,194 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.hessemer-augen.de
+2015-12-20 16:29:37,504 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:29:37,794 - germany INFO: item = {'address': u'Martinspfad 72, 64285, Darmstadt',
+ 'city': u'Darmstadt',
+ 'email': 'info@hessemer-augen.de',
+ 'homepage': u'http://www.hessemer-augen.de/',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Augenarzt',
+ 'phone': u'06151 406630',
+ 'rating': 0.0,
+ 'title': u'Dr. Hessemer Augenklinik GmbH'}
+2015-12-20 16:29:37,899 - germany INFO: Inside list item
+2015-12-20 16:29:37,913 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.dr-tsantilis.de
+2015-12-20 16:29:38,869 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 3862
+2015-12-20 16:29:38,871 - germany INFO: item = {'address': u'Heiligkreuzweg  90, 55130, Mainz',
+ 'city': u'Mainz',
+ 'email': 'praxis@dr-tsantilis.de',
+ 'homepage': u'http://www.dr-tsantilis.de/',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Zahnarzt',
+ 'phone': u'06131 85464',
+ 'rating': 0.0,
+ 'title': u'Oralchirurgische Zaharztpraxis Dr. med. dent T. Tsantilis'}
+2015-12-20 16:29:38,886 - germany INFO: Inside list item
+2015-12-20 16:29:38,897 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.zahnarztjacob.de
+2015-12-20 16:29:40,082 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 301 0
+2015-12-20 16:29:40,083 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): zahnarztjacob.de
+2015-12-20 16:29:41,121 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:29:41,582 - germany INFO: item = {'address': u'Carl-Schurz-Str.  35, 13597, Berlin',
+ 'city': u'Berlin',
+ 'email': 'praxis@zahnarztjacob.de',
+ 'homepage': u'http://www.zahnarztjacob.de/',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Zahnarzt',
+ 'phone': u'030 3334807',
+ 'rating': 0.0,
+ 'title': u'Zahnarztpraxis Jacob und Jacob'}
+2015-12-20 16:29:41,583 - germany INFO: Inside list item
+2015-12-20 16:29:41,593 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.eurionprivatklinik.de
+2015-12-20 16:29:41,962 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:29:42,124 - germany INFO: item = {'address': u'Eysseneckstr.  24, 60322, Frankfurt am Main',
+ 'city': u'Frankfurt am Main',
+ 'email': 'info@eurion-privatklinik.de',
+ 'homepage': u'http://www.eurionprivatklinik.de/',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Chirurg',
+ 'phone': u'069 50927611',
+ 'rating': 0.0,
+ 'title': u'Eurion Privatklinik'}
+2015-12-20 16:29:42,124 - germany INFO: Inside list item
+2015-12-20 16:29:42,135 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.dr-schweitzer.de
+2015-12-20 16:29:42,734 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:29:42,896 - germany INFO: item = {'address': u'Wilhelmjstr. 2, 61250, Usingen',
+ 'city': u'Usingen',
+ 'email': 'praxis@dr-schweitzer.de',
+ 'homepage': u'http://www.dr-schweitzer.de/',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Niedergelassene Zahn\xe4rzte f\xfcr Kieferorthop\xe4die',
+ 'phone': u'06081 44490',
+ 'rating': 0.0,
+ 'title': u'Fachpraxis f\xfcr Kieferorthop\xe4die Dr. Markus Schweitzer'}
+2015-12-20 16:29:42,897 - germany INFO: Inside list item
+2015-12-20 16:29:42,909 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.lasik-lasek-prk.de
+2015-12-20 16:29:43,303 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 301 234
+2015-12-20 16:29:43,304 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.augen-berlin.de
+2015-12-20 16:29:44,509 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:29:44,667 - germany INFO: item = {'address': u'Drakestr.  31, 12205, Berlin',
+ 'city': u'Berlin',
+ 'email': 'augenarzt@augen-berlin.de',
+ 'homepage': u'http://www.lasik-lasek-prk.de/',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Augenarzt',
+ 'phone': u'030 84309176',
+ 'rating': 4.0,
+ 'title': u'Augenlaser-Zentrum Berlin Lichterfelde-West Dr. Christoph Wiemer und Dr. Dr. Peter Kaulen  '}
+2015-12-20 16:29:44,668 - germany INFO: Inside list item
+2015-12-20 16:29:44,678 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.gesunde-zaehne-lebenslang.de
+2015-12-20 16:29:44,934 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 10499
+2015-12-20 16:29:44,936 - germany INFO: item = {'address': u'Badstr.  4, 13357, Berlin',
+ 'city': u'Berlin',
+ 'email': 'praxis@gesunde-zaehne-lebenslang.de',
+ 'homepage': u'http://www.gesunde-zaehne-lebenslang.de/',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Zahnarzt',
+ 'phone': u'030 4945040',
+ 'rating': 0.0,
+ 'title': u'Zahnarztpraxis im Gesundbrunnen-Center Berlin'}
+2015-12-20 16:29:44,937 - germany INFO: Inside list item
+2015-12-20 16:29:44,952 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.zzb.de
+2015-12-20 16:29:45,318 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 301 289
+2015-12-20 16:29:45,319 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): zzb.de
+2015-12-20 16:29:46,181 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:29:46,338 - germany INFO: item = {'address': u'Bahnhofstr. 9, 12305, Berlin',
+ 'city': u'Berlin',
+ 'email': 'info@ZZB.de',
+ 'homepage': u'http://www.zzb.de/',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Zahnarzt und Kieferorthop\xe4de',
+ 'phone': u'030 7055090',
+ 'rating': 5.0,
+ 'title': u'ZZB - Zahnmedizinisches Zentrum Berlin'}
+2015-12-20 16:29:46,355 - germany INFO: Items on page= 11 <200 http://branchenbuch.meinestadt.de/deutschland/suche?words=doktor&page=2>
+2015-12-20 16:29:46,358 - germany ERROR: Error occured list index out of range
+2015-12-20 16:29:46,358 - germany INFO: http://branchenbuch.meinestadt.de/berlin/firma/zahnarztpraxis-kbartsch-munding-und-kollegen
+2015-12-20 16:29:46,359 - germany INFO: http://branchenbuch.meinestadt.de/hannover/firma/zahnarzt-dr-dietrich-elberskirch
+2015-12-20 16:29:46,359 - germany INFO: Inside list item
+2015-12-20 16:29:46,371 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.hno-doktor.de
+2015-12-20 16:29:46,698 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 301 317
+2015-12-20 16:29:46,700 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.hno-zentrum-frankfurt.de
+2015-12-20 16:29:47,072 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 301 0
+2015-12-20 16:29:47,073 - requests.packages.urllib3.connectionpool INFO: Resetting dropped connection: www.hno-zentrum-frankfurt.de
+2015-12-20 16:29:48,068 - requests.packages.urllib3.connectionpool DEBUG: "GET /de/index.php HTTP/1.1" 200 None
+2015-12-20 16:29:48,205 - germany INFO: item = {'address': u'Dreieichstr.  59, 60594, Frankfurt am Main',
+ 'city': u'Frankfurt am Main',
+ 'email': 'Info@HNO-Doktor.de',
+ 'homepage': u'http://www.hno-doktor.de/',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'HNO-Arzt',
+ 'phone': u'069 5077580',
+ 'rating': 4.0,
+ 'title': u'Gemeinschaftspraxis Sachsenhausen'}
+2015-12-20 16:29:48,205 - germany INFO: Inside list item
+2015-12-20 16:29:48,217 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.lueckenlos-chemnitz.de
+2015-12-20 16:29:48,869 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:29:49,203 - germany INFO: item = {'address': u'Wilhelm-K\xfclz-Platz 10, 09113, Chemnitz',
+ 'city': u'Chemnitz',
+ 'email': 'rezeption@lehnguth.de',
+ 'homepage': u'http://www.lueckenlos-chemnitz.de/',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Zahnarzt',
+ 'phone': u'0371 427816',
+ 'rating': 0.0,
+ 'title': u'Zahnarztpraxis und Labor Lehnguth Liedtke Krabe & Kollegen'}
+2015-12-20 16:29:49,205 - germany INFO: http://branchenbuch.meinestadt.de/stadt-bremen/firma/zahnarztpraxis-dr-sylvia-loelke
+2015-12-20 16:29:49,206 - germany INFO: http://branchenbuch.meinestadt.de/dortmund/firma/hartmann-dr-dr-med-norbert
+2015-12-20 16:29:49,207 - germany INFO: http://branchenbuch.meinestadt.de/pfinztal/firma/zahnarztpraxis-dr-regine-dressler
+2015-12-20 16:29:49,207 - germany INFO: http://branchenbuch.meinestadt.de/wuppertal/firma/zahnarztpraxis-dr-med-dent-marcus-flach
+2015-12-20 16:29:49,208 - germany INFO: http://branchenbuch.meinestadt.de/koeln/firma/augenzentrum-klinik-links-vom-rhein
+2015-12-20 16:29:49,208 - germany INFO: http://branchenbuch.meinestadt.de/berlin/firma/sehkraft-augenzentrum
+2015-12-20 16:29:49,209 - germany INFO: http://branchenbuch.meinestadt.de/koeln/firma/sehkraft-augenzentrum
+2015-12-20 16:29:49,210 - germany INFO: http://branchenbuch.meinestadt.de/hamburg/firma/orthopaedie-an-der-alster
+2015-12-20 16:29:49,210 - germany INFO: Next page found
+2015-12-20 16:29:50,311 - germany INFO: Inside list item
+2015-12-20 16:29:50,324 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.augenchirurgie-koeln.de
+2015-12-20 16:29:51,484 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:29:51,638 - germany INFO: item = {'address': u'Schillingsrotter Str.   39-41, 50996, K\xf6ln',
+ 'city': u'K\xf6ln',
+ 'email': 'ophthalmochirurgie@links-vom-rhein.de',
+ 'homepage': u'http://www.augenchirurgie-koeln.de/',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Augenarzt',
+ 'phone': u'0221 39800240',
+ 'rating': 0.0,
+ 'title': u'Augenzentrum Klinik links vom Rhein'}
+2015-12-20 16:29:51,743 - germany INFO: Inside list item
+2015-12-20 16:29:51,753 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.dr-flach.de
+2015-12-20 16:29:52,767 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 3630
+2015-12-20 16:29:52,916 - germany INFO: item = {'address': u'Wall 32, 42103, Wuppertal',
+ 'city': u'Wuppertal',
+ 'email': 'info@dr-flach.de',
+ 'homepage': u'http://www.dr-flach.de/',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Zahnarzt und Kieferorthop\xe4de',
+ 'phone': u'0202 459021',
+ 'rating': 0.0,
+ 'title': u'Zahnarztpraxis Dr. med. dent. Marcus Flach'}
+2015-12-20 16:29:52,928 - germany INFO: Inside list item
+2015-12-20 16:29:52,940 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.implantologin.de
+2015-12-20 16:29:53,784 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 302 232
+2015-12-20 16:29:53,785 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): reginedressler.jimdo.com
+2015-12-20 16:29:54,843 - requests.packages.urllib3.connectionpool DEBUG: "GET /team-und-praxis/ HTTP/1.1" 301 0
+2015-12-20 16:29:54,844 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.zahnarzt-praxis-karlsruhe.de
+2015-12-20 16:29:55,593 - requests.packages.urllib3.connectionpool DEBUG: "GET /team-und-praxis/ HTTP/1.1" 301 0
+2015-12-20 16:29:55,880 - requests.packages.urllib3.connectionpool DEBUG: "GET /dr-regine-dressler/ HTTP/1.1" 200 14662
+2015-12-20 16:29:56,075 - germany INFO: item = {'address': u'Steigstr. 5, 76327, Pfinztal',
+ 'city': u'Pfinztal',
+ 'email': 'dr_dressler@t-online.de',
+ 'homepage': u'http://www.implantologin.de/',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Zahnarzt und Kieferorthop\xe4de',
+ 'phone': u'0721 463103',
+ 'rating': 4.0,
+ 'title': u'Zahnarztpraxis Dr. Regine Dressler'}
+2015-12-20 16:29:56,076 - germany INFO: Inside list item
+2015-12-20 16:29:56,087 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.dr-elberskirch.de
+2015-12-20 16:29:56,818 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 302 219
+2015-12-20 16:29:56,819 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.darbouche-elberskirch.de
+2015-12-20 16:29:58,881 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 5515
+2015-12-20 16:29:58,882 - germany INFO: item = {'address': u'Georgstr. 11, 30159, Hannover',
+ 'city': u'Hannover',
+ 'email': 'rezeption@dr-elberskirch.de',
+ 'homepage': u'http://www.dr-elberskirch.de/',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Zahnarzt',
+ 'phone': u'0511 14830',
+ 'rating': 0.0,
+ 'title': u'Zahnarzt Dr. Dietrich Elberskirch'}
+2015-12-20 16:29:58,896 - germany INFO: Inside list item
+2015-12-20 16:29:58,906 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.zahnmundkiefergesicht.de
+2015-12-20 16:30:00,348 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:30:01,360 - germany INFO: item = {'address': u'K\xf6ln-Berliner-Str. 1, 44287, Dortmund',
+ 'city': u'Dortmund',
+ 'email': 'kontakt@zahnmundkiefergesicht.de',
+ 'homepage': u'http://www.zahnmundkiefergesicht.de/',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Zahnarzt',
+ 'phone': u'0231 5335877',
+ 'rating': 0.0,
+ 'title': u'Hartmann, Dr. Dr. med. Norbert '}
+2015-12-20 16:30:01,361 - germany INFO: Inside list item
+2015-12-20 16:30:01,373 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.sehkraft.de
+2015-12-20 16:30:02,636 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:30:02,938 - germany INFO: item = {'address': u'Oberwallstr. 7, 10117, Berlin',
+ 'city': u'Berlin',
+ 'email': 'mail@sehkraft.de',
+ 'homepage': u'http://www.sehkraft.de/',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Augenarzt',
+ 'phone': u'030 6204666',
+ 'rating': 0.0,
+ 'title': u'sehkraft Augenzentrum'}
+2015-12-20 16:30:02,947 - germany INFO: Inside list item
+2015-12-20 16:30:02,960 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.orthopaedie-alster.de
+2015-12-20 16:30:03,848 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:30:03,992 - germany INFO: item = {'address': u'Eppendorfer Landstra\xdfe 77, 22299, Hamburg',
+ 'city': u'Hamburg',
+ 'email': 'praxis@orthopaedie-alster.de',
+ 'homepage': u'http://www.orthopaedie-alster.de/',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Orthop\xe4de',
+ 'phone': u'040 46063660',
+ 'rating': 0.0,
+ 'title': u'Orthop\xe4die an der Alster'}
+2015-12-20 16:30:03,993 - germany INFO: Inside list item
+2015-12-20 16:30:04,008 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.sehkraft.de
+2015-12-20 16:30:04,616 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:30:04,768 - germany INFO: item = {'address': u'Wolfsstr. 16, 50667, K\xf6ln',
+ 'city': u'K\xf6ln',
+ 'email': 'mail@sehkraft.de',
+ 'homepage': u'http://www.sehkraft.de/',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Augenarzt',
+ 'phone': u'0221 860160',
+ 'rating': 0.0,
+ 'title': u'sehkraft Augenzentrum'}
+2015-12-20 16:30:04,777 - germany INFO: Items on page= 11 <200 http://branchenbuch.meinestadt.de/deutschland/suche?words=doktor&page=3>
+2015-12-20 16:30:04,780 - germany ERROR: Error occured list index out of range
+2015-12-20 16:30:04,781 - germany INFO: http://branchenbuch.meinestadt.de/weinstadt/firma/kieferorthopaedie-dr-michael-konik
+2015-12-20 16:30:04,781 - germany INFO: Inside list item
+2015-12-20 16:30:04,799 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.dr-loelke.de
+2015-12-20 16:30:06,215 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 4609
+2015-12-20 16:30:06,217 - germany INFO: item = {'address': u'Hollerallee  35, 28209, Bremen',
+ 'city': u'Bremen',
+ 'email': 'praxis@dr-loelke.de',
+ 'homepage': u'http://www.dr-loelke.de/',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Zahnarzt',
+ 'phone': u'0421 341214',
+ 'rating': 5.0,
+ 'title': u'Zahnarztpraxis Dr. Sylvia Loelke'}
+2015-12-20 16:30:06,217 - germany INFO: Inside list item
+2015-12-20 16:30:06,228 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.zahnarztpraxis-tiergarten.de
+2015-12-20 16:30:07,334 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 2925
+2015-12-20 16:30:07,335 - germany INFO: item = {'address': u'Turmstr.  55, 10551, Berlin',
+ 'city': u'Berlin',
+ 'email': 'praxis@bartsch-munding.de',
+ 'homepage': u'http://www.zahnarztpraxis-tiergarten.de/',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Zahnarzt',
+ 'phone': u'030 3951027',
+ 'rating': 0.0,
+ 'title': u'Zahnarztpraxis K.Bartsch-Munding und Kollegen'}
+2015-12-20 16:30:07,340 - germany INFO: http://branchenbuch.meinestadt.de/bonn/firma/hno-praxis-dr-med-oliver-hofmann
+2015-12-20 16:30:07,341 - germany INFO: http://branchenbuch.meinestadt.de/dresden/firma/praxis-fuer-praenatale-diagnostik-dres-med-szendzielorzsteinlausch
+2015-12-20 16:30:07,342 - germany INFO: http://branchenbuch.meinestadt.de/koeln/firma/urologie-am-neumarkt-dr-med-frank-conrad
+2015-12-20 16:30:07,342 - germany INFO: http://branchenbuch.meinestadt.de/stuttgart/firma/zahnarztpraxis-stephan-gelhaus
+2015-12-20 16:30:07,343 - germany INFO: http://branchenbuch.meinestadt.de/frankfurt-am-main/firma/praxis-fuer-zahnheilkunde-leister-und-schulz
+2015-12-20 16:30:07,344 - germany INFO: http://branchenbuch.meinestadt.de/duisburg/firma/klinik-fuer-refraktive-und-ophthalmo-chirurgie-des-ejk-niederrhein
+2015-12-20 16:30:07,344 - germany INFO: http://branchenbuch.meinestadt.de/koeln/firma/zahnaerztliche-gemeinschaftspraxis-dres-foerster-marenbach-und-marenbach
+2015-12-20 16:30:07,345 - germany INFO: http://branchenbuch.meinestadt.de/luedenscheid/firma/praxis-fuer-zahn--mund--und-kieferheilkunde-dr-nadine-griesenbrock
+2015-12-20 16:30:07,346 - germany INFO: http://branchenbuch.meinestadt.de/dortmund/firma/clinic-im-centrum
+2015-12-20 16:30:07,347 - germany INFO: Next page found
+2015-12-20 16:30:08,153 - germany INFO: Inside list item
+2015-12-20 16:30:08,165 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.konik.de
+2015-12-20 16:30:08,746 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:30:09,500 - germany INFO: item = {'address': u'Str\xfcmpfelbacher Str.  21, 71384, Weinstadt',
+ 'city': u'Weinstadt',
+ 'email': 'info@konik.de',
+ 'homepage': u'http://www.konik.de/',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Niedergelassene Zahn\xe4rzte f\xfcr Kieferorthop\xe4die',
+ 'phone': u'07151 969400',
+ 'rating': 5.0,
+ 'title': u'Kieferorthop\xe4die Dr. Michael Konik'}
+2015-12-20 16:30:09,517 - germany INFO: Inside list item
+2015-12-20 16:30:09,528 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.zahnarztpraxis-griesenbrock.de
+2015-12-20 16:30:11,103 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 301 None
+2015-12-20 16:30:11,105 - requests.packages.urllib3.connectionpool INFO: Starting new HTTPS connection (1): zahnarztpraxis-griesenbrock.de
+2015-12-20 16:30:12,733 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:30:12,897 - germany INFO: item = {'address': u'Knapper Str. 2, 58507, L\xfcdenscheid',
+ 'city': u'L\xfcdenscheid',
+ 'email': 'info@zahnarztpraxis-griesenbrock.de',
+ 'homepage': u'http://www.zahnarztpraxis-griesenbrock.de/',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Zahnarzt und Kieferorthop\xe4de',
+ 'phone': u'02351 4324333',
+ 'rating': 0.0,
+ 'title': u'Praxis f\xfcr Zahn-, Mund- und Kieferheilkunde Dr. Nadine Griesenbrock'}
+2015-12-20 16:30:12,898 - germany INFO: Inside list item
+2015-12-20 16:30:12,911 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.implantologie-frankfurt.net
+2015-12-20 16:30:13,772 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:30:13,774 - germany INFO: item = {'address': u'Walther-von-Cronberg-Platz  13, 60594, Frankfurt am Main',
+ 'city': u'Frankfurt am Main',
+ 'email': 'zahnarztpraxis@leister-schulz.de',
+ 'homepage': u'http://www.implantologie-frankfurt.net/',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Zahnarzt',
+ 'phone': u'069 66076655',
+ 'rating': 5.0,
+ 'title': u'Praxis f\xfcr Zahnheilkunde Leister & Schulz'}
+2015-12-20 16:30:13,774 - germany INFO: Inside list item
+2015-12-20 16:30:13,788 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.augenklinik-duisburg.de
+2015-12-20 16:30:14,889 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:30:15,039 - germany INFO: item = {'address': u'Fahrner Str. 133, 47169, Duisburg',
+ 'city': u'Duisburg',
+ 'email': 'info@augenklinik-duisburg.de',
+ 'homepage': u'http://www.augenklinik-duisburg.de/',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Chirurg, Krankenhaus',
+ 'phone': u'0203 5081711',
+ 'rating': 0.0,
+ 'title': u'Klinik f\xfcr Refraktive und Ophthalmo - Chirurgie des EJK Duisburg-Nord'}
+2015-12-20 16:30:15,040 - germany INFO: Inside list item
+2015-12-20 16:30:15,052 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.clinic-im-centrum.de
+2015-12-20 16:30:20,835 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 301 354
+2015-12-20 16:30:21,091 - requests.packages.urllib3.connectionpool DEBUG: "GET /de/startseite/index.html HTTP/1.1" 200 None
+2015-12-20 16:30:21,554 - germany INFO: item = {'address': u'Luisenstr. 14, 44137, Dortmund',
+ 'city': u'Dortmund',
+ 'email': 'info@clinic-im-centrum.de',
+ 'homepage': u'http://www.clinic-im-centrum.de/',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Plastischer Chirurg',
+ 'phone': u'0231 1657771',
+ 'rating': 0.0,
+ 'title': u'Clinic im Centrum'}
+2015-12-20 16:30:21,555 - germany INFO: Inside list item
+2015-12-20 16:30:21,567 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.gelhaus.de
+2015-12-20 16:30:23,580 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:30:23,582 - germany INFO: item = {'address': u'Curiestr. 4, 70563, Stuttgart',
+ 'city': u'Stuttgart',
+ 'email': 'stephan@gelhaus.de',
+ 'homepage': u'http://www.gelhaus.de/',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Zahnarzt',
+ 'phone': u'0711 6204544',
+ 'rating': 0.0,
+ 'title': u'Zahnarztpraxis Stephan Gelhaus'}
+2015-12-20 16:30:23,582 - germany INFO: Inside list item
+2015-12-20 16:30:23,596 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.zahnarzt-koeln-porz.de
+2015-12-20 16:30:25,058 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 24985
+2015-12-20 16:30:25,537 - germany INFO: item = {'address': u'K\xf6lner Str. 48, 51149, K\xf6ln',
+ 'city': u'K\xf6ln',
+ 'email': 'zahnarztporz@aol.com',
+ 'homepage': u'http://www.zahnarzt-koeln-porz.de/',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Zahnarzt und Kieferorthop\xe4de',
+ 'phone': u'02203 699470',
+ 'rating': 5.0,
+ 'title': u'Zahn\xe4rztliche Gemeinschaftspraxis Dres. F\xf6rster-Marenbach & Marenbach'}
+2015-12-20 16:30:25,551 - germany INFO: Inside list item
+2015-12-20 16:30:25,562 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.praenatal-dresden.de
+2015-12-20 16:30:26,614 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 16140
+2015-12-20 16:30:26,619 - germany INFO: item = {'address': u'Friedrichstr. 32, 01067, Dresden',
+ 'city': u'Dresden',
+ 'email': 'info@praenatal-dresden.de',
+ 'homepage': u'http://www.praenatal-dresden.de/',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Gyn\xe4kologe (Frauenarzt)',
+ 'phone': u'0351 4810511',
+ 'rating': 5.0,
+ 'title': u'Praxis f\xfcr pr\xe4natale Diagnostik, Dres. med. Szendzielorz/Stein/Lausch'}
+2015-12-20 16:30:26,619 - germany INFO: Inside list item
+2015-12-20 16:30:26,630 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.hno-hofmann.de
+2015-12-20 16:30:27,342 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 2114
+2015-12-20 16:30:27,343 - germany INFO: item = {'address': u'Markt  35, 53111, Bonn',
+ 'city': u'Bonn',
+ 'email': 'info@hno-hofmann.de',
+ 'homepage': u'http://www.hno-hofmann.de/',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'HNO-Arzt',
+ 'phone': u'0228 637466',
+ 'rating': 0.0,
+ 'title': u'HNO Praxis Dr. med. Oliver Hofmann'}
+2015-12-20 16:30:27,344 - germany INFO: Inside list item
+2015-12-20 16:30:27,359 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.urologie-am-neumarkt.de
+2015-12-20 16:30:29,300 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 6960
+2015-12-20 16:30:29,302 - germany INFO: item = {'address': u'Neumarkt 36-38, 50667, K\xf6ln',
+ 'city': u'K\xf6ln',
+ 'email': 'info@urologie-am-neumarkt.de',
+ 'homepage': u'http://www.urologie-am-neumarkt.de/',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Urologe',
+ 'phone': u'0221 2806767',
+ 'rating': 0.0,
+ 'title': u'Urologie am Neumarkt, Dr. med Frank Conrad'}
+2015-12-20 16:30:29,314 - germany INFO: Items on page= 11 <200 http://branchenbuch.meinestadt.de/deutschland/suche?words=doktor&page=4>
+2015-12-20 16:30:29,316 - germany ERROR: Error occured list index out of range
+2015-12-20 16:30:29,317 - germany INFO: http://branchenbuch.meinestadt.de/berlin/firma/ahlring-bonaventura-dr-christine
+2015-12-20 16:30:29,317 - germany INFO: http://branchenbuch.meinestadt.de/mannheim/firma/mannheimer-klinik-fuer-plastische-chirurgie
+2015-12-20 16:30:29,318 - germany INFO: http://branchenbuch.meinestadt.de/ingolstadt/firma/gemeinschaftspraxis-dr-dirk-mueller-busch-dr-astrid-wildenhof-heidemarie-drechsler
+2015-12-20 16:30:29,320 - germany INFO: http://branchenbuch.meinestadt.de/essen-ruhr/firma/a-b-c-acht-aerzte-im-team-dr-herold-und-kollegen
+2015-12-20 16:30:29,320 - germany INFO: http://branchenbuch.meinestadt.de/oppenau/firma/praxis-dr-med-dent-alexander-oberle-master-of-science
+2015-12-20 16:30:29,321 - germany INFO: http://branchenbuch.meinestadt.de/koblenz/firma/internistische-praxis-peter-emsbach
+2015-12-20 16:30:29,321 - germany INFO: http://branchenbuch.meinestadt.de/bonn/firma/dr-med-dr-troph-gordana-rosen
+2015-12-20 16:30:29,322 - germany INFO: http://branchenbuch.meinestadt.de/koeln/firma/praxis-fuer-zahnheilkunde---dr-guenther-schlimbach
+2015-12-20 16:30:29,322 - germany INFO: http://branchenbuch.meinestadt.de/moenchengladbach/firma/institut-fuer-pathologie-dr-med-roesler-und-dr-med-ortloff
+2015-12-20 16:30:29,323 - germany INFO: http://branchenbuch.meinestadt.de/bernkastel-kues/firma/orthopaedische-praxis-dr-martin-quarz
+2015-12-20 16:30:29,324 - germany INFO: Next page found
+2015-12-20 16:30:30,106 - germany INFO: Inside list item
+2015-12-20 16:30:30,120 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.drschlimbach.de
+2015-12-20 16:30:31,356 - requests.packages.urllib3.connectionpool DEBUG: "GET /allesklar HTTP/1.1" 302 210
+2015-12-20 16:30:31,901 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:30:32,169 - germany INFO: item = {'address': u'Buschfeldstr. 31, 51067, K\xf6ln',
+ 'city': u'K\xf6ln',
+ 'email': 'kontakt@drschlimbach.de',
+ 'homepage': u'http://www.drschlimbach.de/allesklar',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Zahnarzt',
+ 'phone': u'0221 631660',
+ 'rating': 0.0,
+ 'title': u'Praxis f\xfcr Zahnheilkunde - Dr. G\xfcnther Schlimbach'}
+2015-12-20 16:30:32,188 - germany INFO: Inside list item
+2015-12-20 16:30:32,199 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.bonaventura-zahn.de
+2015-12-20 16:30:33,449 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:30:33,616 - germany INFO: item = {'address': u'Berliner Str. 3, 14169, Berlin',
+ 'city': u'Berlin',
+ 'email': 'chrbonaventura@aol.com',
+ 'homepage': u'http://www.bonaventura-zahn.de/',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Zahnarzt und Kieferorthop\xe4de',
+ 'phone': u'030 81059690',
+ 'rating': 0.0,
+ 'title': u'Ahlring-Bonaventura, Dr. Christine'}
+2015-12-20 16:30:33,617 - germany INFO: Inside list item
+2015-12-20 16:30:33,627 - germany ERROR: Error occured list index out of range
+2015-12-20 16:30:33,627 - germany INFO: item = {'address': u'Friedensplatz 7, 53111, Bonn',
+ 'city': u'Bonn',
+ 'homepage': u'http://www.dr-rosen.de/',
+ 'industry': u'Allergologe, Arzt f\xfcr Naturheilkunde, Dermatologe (Hautarzt)',
+ 'phone': u'0228 637323',
+ 'rating': 0.0,
+ 'title': u'Dr. med. Dr. troph. Gordana Rosen'}
+2015-12-20 16:30:33,628 - germany INFO: Inside list item
+2015-12-20 16:30:33,638 - germany ERROR: Error occured list index out of range
+2015-12-20 16:30:33,638 - germany INFO: item = {'address': u'Hofmillerstr. 21, 85055, Ingolstadt',
+ 'city': u'Ingolstadt',
+ 'homepage': u'http://www.dr-mueller-busch.de/',
+ 'industry': u'Zahnarzt',
+ 'phone': u'0841 56269',
+ 'rating': 0.0,
+ 'title': u'Gemeinschaftspraxis Dr. Dirk M\xfcller-Busch, Dr. Astrid Wildenhof, Heidemarie Drechsler'}
+2015-12-20 16:30:33,638 - germany INFO: Inside list item
+2015-12-20 16:30:33,650 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.beautyclinic.de
+2015-12-20 16:30:36,477 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 301 20
+2015-12-20 16:30:36,478 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): beautyclinic.de
+2015-12-20 16:30:37,883 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 17756
+2015-12-20 16:30:38,189 - germany INFO: item = {'address': u'Mollstr. 45, 68165, Mannheim',
+ 'city': u'Mannheim',
+ 'email': 'info@beautyclinic.de',
+ 'homepage': u'http://www.beautyclinic.de/',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Plastischer Chirurg',
+ 'phone': u'0621 152800',
+ 'rating': 0.0,
+ 'title': u'Mannheimer Klinik f\xfcr Plastische Chirurgie'}
+2015-12-20 16:30:38,189 - germany INFO: Inside list item
+2015-12-20 16:30:38,201 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.drquarzmartin.homepage.t-online.de
+2015-12-20 16:30:39,652 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 16354
+2015-12-20 16:30:40,687 - germany INFO: item = {'address': u'Panoramastr., 54470, Bernkastel-Kues',
+ 'city': u'Bernkastel-Kues',
+ 'email': 'drquarz.reha@t-online.de',
+ 'homepage': u'http://www.drquarzmartin.homepage.t-online.de/',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Orthop\xe4de',
+ 'phone': u'06531 921732',
+ 'rating': 0.0,
+ 'title': u'Orthop\xe4dische Praxis Dr. Martin Quarz'}
+2015-12-20 16:30:40,688 - germany INFO: Inside list item
+2015-12-20 16:30:40,701 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.patho-institut.de
+2015-12-20 16:30:41,659 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 303 11
+2015-12-20 16:30:41,660 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.pathologie.persch-computer.de
+2015-12-20 16:30:44,055 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 1097
+2015-12-20 16:30:44,056 - germany INFO: item = {'address': u'Limitenstr. 90, 41236, M\xf6nchengladbach',
+ 'city': u'M\xf6nchengladbach',
+ 'email': 'info@patho-institut.de',
+ 'homepage': u'http://www.patho-institut.de/',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Pathologe',
+ 'phone': u'02166 628900',
+ 'rating': 0.0,
+ 'title': u'Institut f\xfcr Pathologie Dr. med. R\xf6sler & Dr. med. Ortloff'}
+2015-12-20 16:30:44,072 - germany INFO: Inside list item
+2015-12-20 16:30:44,083 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.zahnarzt-oberle.de
+2015-12-20 16:30:45,253 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 4412
+2015-12-20 16:30:45,406 - germany INFO: item = {'address': u'Dreik\xf6nigweg 2, 77728, Oppenau',
+ 'city': u'Oppenau',
+ 'email': 'info@zahnarzt-oberle.de',
+ 'homepage': u'http://www.zahnarzt-oberle.de/',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Zahnarzt und Kieferorthop\xe4de',
+ 'phone': u'07804 3571',
+ 'rating': 0.0,
+ 'title': u'Praxis Dr. med. dent. Alexander Oberle Master of Science'}
+2015-12-20 16:30:45,407 - germany INFO: Inside list item
+2015-12-20 16:30:45,422 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.doktor-herold.de
+2015-12-20 16:30:48,143 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 14999
+2015-12-20 16:30:48,604 - germany INFO: item = {'address': u'Limbecker Platz 4, 45127, Essen/Ruhr',
+ 'city': u'Essen/Ruhr',
+ 'email': 'drthomasherold@yahoo.de',
+ 'homepage': u'http://www.doktor-herold.de/',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Zahnarzt',
+ 'phone': u'0201 233222',
+ 'rating': 0.0,
+ 'title': u'A - B - C Acht \xc4rzte im Team Dr. Herold und Kollegen'}
+2015-12-20 16:30:48,604 - germany INFO: Inside list item
+2015-12-20 16:30:48,614 - germany ERROR: Error occured list index out of range
+2015-12-20 16:30:48,615 - germany INFO: item = {'address': u'R\xfcbenacher Str. 5-6, 56072, Koblenz',
+ 'city': u'Koblenz',
+ 'homepage': u'http://www.emsbach.de/',
+ 'industry': u'Arzt f\xfcr Naturheilkunde, Internist',
+ 'phone': u'0261 25061',
+ 'rating': 0.0,
+ 'title': u'Internistische Praxis Peter Emsbach'}
+2015-12-20 16:30:48,622 - germany INFO: Items on page= 11 <200 http://branchenbuch.meinestadt.de/deutschland/suche?words=doktor&page=5>
+2015-12-20 16:30:48,625 - germany ERROR: Error occured list index out of range
+2015-12-20 16:30:48,625 - germany INFO: http://branchenbuch.meinestadt.de/essen-ruhr/firma/laser-forum-essen-gmbh
+2015-12-20 16:30:48,631 - germany INFO: http://branchenbuch.meinestadt.de/bahlingen/firma/zahnarztpraxis-marcus-hamschmidt
+2015-12-20 16:30:48,631 - germany INFO: http://branchenbuch.meinestadt.de/reutlingen/firma/kleintierklinik-huettig
+2015-12-20 16:30:48,632 - germany INFO: http://branchenbuch.meinestadt.de/gelsenkirchen/firma/zahnarztpraxis-dr-victor-barna
+2015-12-20 16:30:48,632 - germany INFO: http://branchenbuch.meinestadt.de/muenchen/firma/zarth-dr-med-andreas
+2015-12-20 16:30:48,633 - germany INFO: http://branchenbuch.meinestadt.de/muenchen/firma/gemeinschaftspraxis-fuer-kinderzahnheilkunde-dr-butz-und-kollegen
+2015-12-20 16:30:48,634 - germany INFO: http://branchenbuch.meinestadt.de/karlsruhe/firma/praxis-dr-krull
+2015-12-20 16:30:48,634 - germany INFO: http://branchenbuch.meinestadt.de/bad-soden-am-taunus/firma/kinder--und-jugendzahnmedizin-dr-andrea-galm
+2015-12-20 16:30:48,635 - germany INFO: http://branchenbuch.meinestadt.de/moers/firma/zahnaerztliche-gemeinschaftspraxis-dr-andreas-grundmann-und-ursula-boehme
+2015-12-20 16:30:48,635 - germany INFO: http://branchenbuch.meinestadt.de/koeln/firma/laig-drmeddent-oliver
+2015-12-20 16:30:48,636 - germany INFO: next page not found , terminate here
+2015-12-20 16:30:49,407 - germany INFO: Inside list item
+2015-12-20 16:30:49,418 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.deinekinderzahnaerztin.de
+2015-12-20 16:30:50,853 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:30:50,905 - germany INFO: item = {'address': u'Marschallstr. 11, 80802, M\xfcnchen',
+ 'city': u'M\xfcnchen',
+ 'email': 'info@deinekinderzahnaerztin.de',
+ 'homepage': u'http://www.deinekinderzahnaerztin.de/',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Zahnarzt',
+ 'phone': u'089 3832900',
+ 'rating': 0.0,
+ 'title': u'Gemeinschaftspraxis f\xfcr Kinderzahnheilkunde Dr. Butz & Kollegen'}
+2015-12-20 16:30:50,925 - germany INFO: Inside list item
+2015-12-20 16:30:50,940 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.lf-essen.de
+2015-12-20 16:30:51,500 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:30:51,839 - germany INFO: item = {'address': u'Theaterplatz 1, 45127, Essen/Ruhr',
+ 'city': u'Essen/Ruhr',
+ 'email': 'info@lf-essen.de',
+ 'homepage': u'http://www.lf-essen.de/',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Chirurg',
+ 'phone': u'0201 1892998',
+ 'rating': 5.0,
+ 'title': u'LASER Forum Essen GmbH'}
+2015-12-20 16:30:51,848 - germany INFO: Inside list item
+2015-12-20 16:30:51,860 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.zahnwunderland.de
+2015-12-20 16:30:52,655 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 7099
+2015-12-20 16:30:52,818 - germany INFO: item = {'address': u'K\xf6nigsteiner Str. 122, 65812, Bad Soden am Taunus',
+ 'city': u'Bad Soden am Taunus',
+ 'email': 'info@zahnwunderland.de',
+ 'homepage': u'http://www.zahnwunderland.de/',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Zahnarzt',
+ 'phone': u'06196 9997996',
+ 'rating': 0.0,
+ 'title': u'Kinder- und Jugendzahnmedizin Dr. Andrea Galm'}
+2015-12-20 16:30:52,819 - germany INFO: Inside list item
+2015-12-20 16:30:52,830 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.augenarzt-fuenf-hoefe.de
+2015-12-20 16:30:53,964 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:30:54,316 - germany INFO: item = {'address': u'Theatinerstr. 15, 80333, M\xfcnchen',
+ 'city': u'M\xfcnchen',
+ 'email': 'mail@augenarzt-fuenf-hoefe.de',
+ 'homepage': u'http://www.augenarzt-fuenf-hoefe.de/',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Augenarzt',
+ 'phone': u'089 20207373',
+ 'rating': 0.0,
+ 'title': u'Zarth, Dr. med. Andreas'}
+2015-12-20 16:30:54,317 - germany INFO: Inside list item
+2015-12-20 16:30:54,332 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.zahnarzt-am-rudolfplatz.de
+2015-12-20 16:30:55,596 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 17451
+2015-12-20 16:30:55,747 - germany INFO: item = {'address': u'Hohenzollernring 2-10, 50672, K\xf6ln',
+ 'city': u'K\xf6ln',
+ 'email': 'kontakt@zahnarzt-am-rudolfplatz.de',
+ 'homepage': u'http://www.zahnarzt-am-rudolfplatz.de/',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Zahnarzt',
+ 'phone': u'0221 37996639',
+ 'rating': 0.0,
+ 'title': u'Laig, Dr.med.dent. Oliver'}
+2015-12-20 16:30:55,747 - germany INFO: Inside list item
+2015-12-20 16:30:55,762 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.dr-krull.de
+2015-12-20 16:30:56,488 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 306
+2015-12-20 16:30:56,489 - germany INFO: item = {'address': u'Leopoldstr. 5, 76133, Karlsruhe',
+ 'city': u'Karlsruhe',
+ 'email': 'post@dr-krull.de',
+ 'homepage': u'http://www.dr-krull.de/',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Allergologe, Dermatologe (Hautarzt)',
+ 'phone': u'0721  913500',
+ 'rating': 5.0,
+ 'title': u'Praxis Dr. Krull'}
+2015-12-20 16:30:56,490 - germany INFO: Inside list item
+2015-12-20 16:30:56,504 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.zahnschmerz24.de
+2015-12-20 16:30:57,256 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 2038
+2015-12-20 16:30:57,257 - germany INFO: item = {'address': u'Homberger Str. 72, 47441, Moers',
+ 'city': u'Moers',
+ 'email': 'andygrundmann@gmx.de',
+ 'homepage': u'http://www.zahnschmerz24.de/',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Zahnarzt',
+ 'phone': u'02841 21010',
+ 'rating': 0.0,
+ 'title': u'Zahn\xe4rztliche Gemeinschaftspraxis Dr. Andreas Grundmann & Ursula B\xf6hme'}
+2015-12-20 16:30:57,258 - germany INFO: Inside list item
+2015-12-20 16:30:57,272 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.dr-barna.de
+2015-12-20 16:30:58,651 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:30:58,662 - germany INFO: item = {'address': u'Ahstr. 8, 45879, Gelsenkirchen',
+ 'city': u'Gelsenkirchen',
+ 'email': 'info@dr-barna.de',
+ 'homepage': u'http://www.dr-barna.de/',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Zahnarzt',
+ 'phone': u'0209 22718',
+ 'rating': 0.0,
+ 'title': u'Zahnarztpraxis Dr. Victor Barna'}
+2015-12-20 16:30:58,662 - germany INFO: Inside list item
+2015-12-20 16:30:58,675 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.tierklinik-huettig.de
+2015-12-20 16:30:59,704 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 276
+2015-12-20 16:30:59,705 - germany INFO: item = {'address': u'Kurrerstr.  40-3, 72762, Reutlingen',
+ 'city': u'Reutlingen',
+ 'email': 'anmeldung@tierklinik-huettig.de',
+ 'homepage': u'http://www.tierklinik-huettig.de/',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Tierarzt, Tierklinik',
+ 'phone': u'07121 93210',
+ 'rating': 0.0,
+ 'title': u'Kleintierklinik H\xfcttig'}
+2015-12-20 16:30:59,706 - germany INFO: Inside list item
+2015-12-20 16:30:59,716 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.zahnarzt-hamschmidt.de
+2015-12-20 16:31:02,872 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:31:02,874 - germany INFO: item = {'address': u'Riegelerstr. 3, 79353, Bahlingen',
+ 'city': u'Bahlingen',
+ 'email': 'info@zahnarzt-hamschmidt.de',
+ 'homepage': u'http://www.zahnarzt-hamschmidt.de/',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Zahnarzt',
+ 'phone': u'07663 3988',
+ 'rating': 0.0,
+ 'title': u'Zahnarztpraxis Marcus Hamschmidt'}
+2015-12-20 16:31:48,330 - germany INFO: Items on page= 11 <200 http://branchenbuch.meinestadt.de/deutschland/suche?words=doktor>
+2015-12-20 16:31:48,333 - germany ERROR: Error occured list index out of range
+2015-12-20 16:31:48,333 - germany INFO: http://branchenbuch.meinestadt.de/darmstadt-wissenschaftsstadt/firma/dr-hessemer-augenklinik-gmbh
+2015-12-20 16:31:48,336 - germany INFO: http://branchenbuch.meinestadt.de/frankfurt-am-main/firma/gemeinschaftspraxis-sachsenhausen
+2015-12-20 16:31:48,337 - germany INFO: http://branchenbuch.meinestadt.de/chemnitz/firma/zahnarztpraxis-und-labor-lehnguth-liedtke-krabe-und-kollegen
+2015-12-20 16:31:48,337 - germany INFO: http://branchenbuch.meinestadt.de/berlin/firma/augenlaser-zentrum-berlin-lichterfelde-west-dr-christoph-wiemer-und-dr-dr-peter-kaulen
+2015-12-20 16:31:48,338 - germany INFO: http://branchenbuch.meinestadt.de/frankfurt-am-main/firma/eurion-privatklinik
+2015-12-20 16:31:48,338 - germany INFO: http://branchenbuch.meinestadt.de/usingen/firma/fachpraxis-fuer-kieferorthopaedie-dr-markus-schweitzer
+2015-12-20 16:31:48,339 - germany INFO: http://branchenbuch.meinestadt.de/mainz/firma/oralchirurgische-zaharztpraxis-dr-med-dent-t-tsantilis
+2015-12-20 16:31:48,339 - germany INFO: http://branchenbuch.meinestadt.de/berlin/firma/zahnarztpraxis-jacob-und-jacob
+2015-12-20 16:31:48,340 - germany INFO: http://branchenbuch.meinestadt.de/berlin/firma/zahnarztpraxis-im-gesundbrunnen-center-berlin
+2015-12-20 16:31:48,340 - germany INFO: http://branchenbuch.meinestadt.de/berlin/firma/zzb-zahnmedizinisches-zentrum-berlin
+2015-12-20 16:31:48,341 - germany INFO: Next page found
+2015-12-20 16:31:48,779 - germany INFO: Inside list item
+2015-12-20 16:31:48,793 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.hessemer-augen.de
+2015-12-20 16:31:49,223 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:31:49,428 - germany INFO: item = {'address': u'Martinspfad 72, 64285, Darmstadt',
+ 'city': u'Darmstadt',
+ 'email': 'info@hessemer-augen.de',
+ 'homepage': u'http://www.hessemer-augen.de/',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Augenarzt',
+ 'phone': u'06151 406630',
+ 'rating': 0.0,
+ 'title': u'Dr. Hessemer Augenklinik GmbH'}
+2015-12-20 16:31:49,532 - germany INFO: Inside list item
+2015-12-20 16:31:49,545 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.zzb.de
+2015-12-20 16:31:49,892 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 301 289
+2015-12-20 16:31:49,893 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): zzb.de
+2015-12-20 16:31:50,734 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:31:50,898 - germany INFO: item = {'address': u'Bahnhofstr. 9, 12305, Berlin',
+ 'city': u'Berlin',
+ 'email': 'info@ZZB.de',
+ 'homepage': u'http://www.zzb.de/',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Zahnarzt und Kieferorthop\xe4de',
+ 'phone': u'030 7055090',
+ 'rating': 5.0,
+ 'title': u'ZZB - Zahnmedizinisches Zentrum Berlin'}
+2015-12-20 16:31:50,920 - germany INFO: Items on page= 11 <200 http://branchenbuch.meinestadt.de/deutschland/suche?words=sex>
+2015-12-20 16:31:50,922 - germany ERROR: Error occured list index out of range
+2015-12-20 16:31:50,923 - germany INFO: http://branchenbuch.meinestadt.de/erlangen/firma/koeneke-dienstleistungen-ltd
+2015-12-20 16:31:50,923 - germany INFO: http://branchenbuch.meinestadt.de/darmstadt-wissenschaftsstadt/company/12603789
+2015-12-20 16:31:50,924 - germany INFO: http://branchenbuch.meinestadt.de/berlin/company/12603566
+2015-12-20 16:31:50,924 - germany INFO: Inside list item
+2015-12-20 16:31:50,936 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.dr-schweitzer.de
+2015-12-20 16:31:51,560 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:31:51,721 - germany INFO: item = {'address': u'Wilhelmjstr. 2, 61250, Usingen',
+ 'city': u'Usingen',
+ 'email': 'praxis@dr-schweitzer.de',
+ 'homepage': u'http://www.dr-schweitzer.de/',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Niedergelassene Zahn\xe4rzte f\xfcr Kieferorthop\xe4die',
+ 'phone': u'06081 44490',
+ 'rating': 0.0,
+ 'title': u'Fachpraxis f\xfcr Kieferorthop\xe4die Dr. Markus Schweitzer'}
+2015-12-20 16:31:51,722 - germany INFO: Inside list item
+2015-12-20 16:31:51,732 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.dr-tsantilis.de
+2015-12-20 16:31:52,457 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 3862
+2015-12-20 16:31:52,458 - germany INFO: item = {'address': u'Heiligkreuzweg  90, 55130, Mainz',
+ 'city': u'Mainz',
+ 'email': 'praxis@dr-tsantilis.de',
+ 'homepage': u'http://www.dr-tsantilis.de/',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Zahnarzt',
+ 'phone': u'06131 85464',
+ 'rating': 0.0,
+ 'title': u'Oralchirurgische Zaharztpraxis Dr. med. dent T. Tsantilis'}
+2015-12-20 16:31:52,459 - germany INFO: Inside list item
+2015-12-20 16:31:52,471 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.eurionprivatklinik.de
+2015-12-20 16:31:52,822 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:31:52,983 - germany INFO: item = {'address': u'Eysseneckstr.  24, 60322, Frankfurt am Main',
+ 'city': u'Frankfurt am Main',
+ 'email': 'info@eurion-privatklinik.de',
+ 'homepage': u'http://www.eurionprivatklinik.de/',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Chirurg',
+ 'phone': u'069 50927611',
+ 'rating': 0.0,
+ 'title': u'Eurion Privatklinik'}
+2015-12-20 16:31:52,984 - germany INFO: Inside list item
+2015-12-20 16:31:52,994 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.zahnarztjacob.de
+2015-12-20 16:31:54,901 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 301 0
+2015-12-20 16:31:54,902 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): zahnarztjacob.de
+2015-12-20 16:31:56,848 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:31:57,501 - germany INFO: item = {'address': u'Carl-Schurz-Str.  35, 13597, Berlin',
+ 'city': u'Berlin',
+ 'email': 'praxis@zahnarztjacob.de',
+ 'homepage': u'http://www.zahnarztjacob.de/',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Zahnarzt',
+ 'phone': u'030 3334807',
+ 'rating': 0.0,
+ 'title': u'Zahnarztpraxis Jacob und Jacob'}
+2015-12-20 16:31:57,502 - germany INFO: Inside list item
+2015-12-20 16:31:57,518 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.gesunde-zaehne-lebenslang.de
+2015-12-20 16:31:57,681 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 10499
+2015-12-20 16:31:57,683 - germany INFO: item = {'address': u'Badstr.  4, 13357, Berlin',
+ 'city': u'Berlin',
+ 'email': 'praxis@gesunde-zaehne-lebenslang.de',
+ 'homepage': u'http://www.gesunde-zaehne-lebenslang.de/',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Zahnarzt',
+ 'phone': u'030 4945040',
+ 'rating': 0.0,
+ 'title': u'Zahnarztpraxis im Gesundbrunnen-Center Berlin'}
+2015-12-20 16:31:57,686 - germany INFO: http://branchenbuch.meinestadt.de/goeppingen/company/12601425
+2015-12-20 16:31:57,687 - germany INFO: http://branchenbuch.meinestadt.de/koeln/company/12354800
+2015-12-20 16:31:57,687 - germany INFO: http://branchenbuch.meinestadt.de/frankfurt-am-main/company/11792400
+2015-12-20 16:31:57,688 - germany INFO: http://branchenbuch.meinestadt.de/bad-oeynhausen/company/12537341
+2015-12-20 16:31:57,688 - germany INFO: http://branchenbuch.meinestadt.de/berlin/company/12725449
+2015-12-20 16:31:57,689 - germany INFO: http://branchenbuch.meinestadt.de/berlin/company/12704804
+2015-12-20 16:31:57,689 - germany INFO: http://branchenbuch.meinestadt.de/berlin/company/12653154
+2015-12-20 16:31:57,690 - germany INFO: Next page found
+2015-12-20 16:31:57,704 - germany INFO: Inside list item
+2015-12-20 16:31:57,716 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.lasik-lasek-prk.de
+2015-12-20 16:31:58,506 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 301 234
+2015-12-20 16:31:58,507 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.augen-berlin.de
+2015-12-20 16:32:01,030 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:32:01,178 - germany INFO: item = {'address': u'Drakestr.  31, 12205, Berlin',
+ 'city': u'Berlin',
+ 'email': 'augenarzt@augen-berlin.de',
+ 'homepage': u'http://www.lasik-lasek-prk.de/',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Augenarzt',
+ 'phone': u'030 84309176',
+ 'rating': 4.0,
+ 'title': u'Augenlaser-Zentrum Berlin Lichterfelde-West Dr. Christoph Wiemer und Dr. Dr. Peter Kaulen  '}
+2015-12-20 16:32:01,179 - germany INFO: Inside list item
+2015-12-20 16:32:01,197 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.hno-doktor.de
+2015-12-20 16:32:01,548 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 301 317
+2015-12-20 16:32:01,549 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.hno-zentrum-frankfurt.de
+2015-12-20 16:32:02,013 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 301 0
+2015-12-20 16:32:02,015 - requests.packages.urllib3.connectionpool INFO: Resetting dropped connection: www.hno-zentrum-frankfurt.de
+2015-12-20 16:32:03,099 - requests.packages.urllib3.connectionpool DEBUG: "GET /de/index.php HTTP/1.1" 200 None
+2015-12-20 16:32:03,259 - germany INFO: item = {'address': u'Dreieichstr.  59, 60594, Frankfurt am Main',
+ 'city': u'Frankfurt am Main',
+ 'email': 'Info@HNO-Doktor.de',
+ 'homepage': u'http://www.hno-doktor.de/',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'HNO-Arzt',
+ 'phone': u'069 5077580',
+ 'rating': 4.0,
+ 'title': u'Gemeinschaftspraxis Sachsenhausen'}
+2015-12-20 16:32:03,260 - germany INFO: Inside list item
+2015-12-20 16:32:03,273 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.lueckenlos-chemnitz.de
+2015-12-20 16:32:03,940 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:32:04,273 - germany INFO: item = {'address': u'Wilhelm-K\xfclz-Platz 10, 09113, Chemnitz',
+ 'city': u'Chemnitz',
+ 'email': 'rezeption@lehnguth.de',
+ 'homepage': u'http://www.lueckenlos-chemnitz.de/',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Zahnarzt',
+ 'phone': u'0371 427816',
+ 'rating': 0.0,
+ 'title': u'Zahnarztpraxis und Labor Lehnguth Liedtke Krabe & Kollegen'}
+2015-12-20 16:32:04,281 - germany INFO: Items on page= 11 <200 http://branchenbuch.meinestadt.de/deutschland/suche?words=doktor&page=2>
+2015-12-20 16:32:04,284 - germany ERROR: Error occured list index out of range
+2015-12-20 16:32:04,284 - germany INFO: http://branchenbuch.meinestadt.de/berlin/firma/zahnarztpraxis-kbartsch-munding-und-kollegen
+2015-12-20 16:32:04,290 - germany INFO: http://branchenbuch.meinestadt.de/hannover/firma/zahnarzt-dr-dietrich-elberskirch
+2015-12-20 16:32:04,291 - germany INFO: http://branchenbuch.meinestadt.de/stadt-bremen/firma/zahnarztpraxis-dr-sylvia-loelke
+2015-12-20 16:32:04,292 - germany INFO: http://branchenbuch.meinestadt.de/dortmund/firma/hartmann-dr-dr-med-norbert
+2015-12-20 16:32:04,292 - germany INFO: http://branchenbuch.meinestadt.de/pfinztal/firma/zahnarztpraxis-dr-regine-dressler
+2015-12-20 16:32:04,293 - germany INFO: http://branchenbuch.meinestadt.de/wuppertal/firma/zahnarztpraxis-dr-med-dent-marcus-flach
+2015-12-20 16:32:04,293 - germany INFO: http://branchenbuch.meinestadt.de/koeln/firma/augenzentrum-klinik-links-vom-rhein
+2015-12-20 16:32:04,294 - germany INFO: http://branchenbuch.meinestadt.de/berlin/firma/sehkraft-augenzentrum
+2015-12-20 16:32:04,295 - germany INFO: http://branchenbuch.meinestadt.de/koeln/firma/sehkraft-augenzentrum
+2015-12-20 16:32:04,295 - germany INFO: http://branchenbuch.meinestadt.de/hamburg/firma/orthopaedie-an-der-alster
+2015-12-20 16:32:04,296 - germany INFO: Next page found
+2015-12-20 16:32:05,251 - germany INFO: Inside list item
+2015-12-20 16:32:05,268 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.gogo-fabrik.de
+2015-12-20 16:32:07,068 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:32:08,025 - germany INFO: item = {'address': u'Bahnhofstr. 48, 32545, Bad Oeynhausen',
+ 'city': u'Bad Oeynhausen',
+ 'email': 'info@gogofabrik.de',
+ 'homepage': u'http://www.gogo-fabrik.de',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Stripclub & Tabledance',
+ 'phone': u'0177 8534542',
+ 'rating': 0.0,
+ 'title': u'Agentur Gogofabrik'}
+2015-12-20 16:32:08,129 - germany INFO: Inside list item
+2015-12-20 16:32:08,142 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.erostoys-shop.de
+2015-12-20 16:32:09,225 - requests.packages.urllib3.connectionpool DEBUG: "GET /de/ HTTP/1.1" 200 None
+2015-12-20 16:32:09,230 - germany INFO: item = {'address': u'Buckenhoferweg 51, 91058, Erlangen',
+ 'city': u'Erlangen',
+ 'email': 'info@erostoys-shop.de',
+ 'homepage': u'http://www.erostoys-shop.de/de/',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Online Shop, Sexshop, Unterw\xe4sche Versandhandel',
+ 'phone': u'09131 9790280',
+ 'rating': 0.0,
+ 'title': u'Koeneke Dienstleistungen Ltd.'}
+2015-12-20 16:32:09,257 - germany INFO: Inside list item
+2015-12-20 16:32:09,274 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.spiritual-tantra.de
+2015-12-20 16:32:10,648 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 6861
+2015-12-20 16:32:10,649 - germany INFO: item = {'address': u'Alt-Moabit 73, 10555, Berlin',
+ 'city': u'Berlin',
+ 'email': 'info@spiritual-tantra.de',
+ 'homepage': u'http://www.spiritual-tantra.de',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Erotische Massage, Massage',
+ 'phone': u'030 26079499',
+ 'rating': 0.0,
+ 'title': u'Spiritual Tantra Lounge'}
+2015-12-20 16:32:10,650 - germany INFO: Inside list item
+2015-12-20 16:32:10,663 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.mrpeople-stripper-berlin.com
+2015-12-20 16:32:10,823 - germany ERROR: Error occured cannot concatenate 'str' and 'MaxRetryError' objects
+2015-12-20 16:32:10,823 - germany INFO: item = {'address': u'Wei\xdfenburger Str. 22, 13595, Berlin',
+ 'city': u'Berlin',
+ 'email': 'info@mrpeople-stripper-berlin.de',
+ 'homepage': u'http://www.mrpeople-stripper-berlin.com/',
+ 'homepage_available': 0,
+ 'html5': 0,
+ 'industry': u'Stripclub & Tabledance, Unterhaltungsk\xfcnstler',
+ 'phone': u'0176 61414562',
+ 'rating': 0.0,
+ 'title': u'Mr.People Stripper Berlin'}
+2015-12-20 16:32:10,824 - germany INFO: Inside list item
+2015-12-20 16:32:10,837 - germany ERROR: Error occured list index out of range
+2015-12-20 16:32:10,837 - germany INFO: item = {'address': u'T\xfcrrschmidtstr. 37, 10317, Berlin',
+ 'city': u'Berlin',
+ 'homepage': u'http://www.peitschenbaer.de',
+ 'industry': u'Sexshop',
+ 'phone': u'0176 99324068',
+ 'rating': 5.0,
+ 'title': u'Der Peitschenb\xe4r'}
+2015-12-20 16:32:10,838 - germany INFO: Inside list item
+2015-12-20 16:32:10,852 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.fkk-sharks.de
+2015-12-20 16:32:29,720 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 6027
+2015-12-20 16:32:29,985 - germany INFO: item = {'address': u'Otto-R\xf6hm Str. 72, 64293, Darmstadt',
+ 'city': u'Darmstadt',
+ 'email': 'fkk.sharks@gmx.de',
+ 'homepage': u'http://www.fkk-sharks.de/',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Sauna- & Erotikclub',
+ 'phone': u'06151 957970',
+ 'rating': 4.0,
+ 'title': u'FKK Saunaclub Sharks'}
+2015-12-20 16:32:29,985 - germany INFO: Inside list item
+2015-12-20 16:32:30,000 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.VIPRelax.eu
+2015-12-20 16:32:31,255 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:32:31,885 - germany INFO: item = {'address': u'Kantstr. 62, 10627, Berlin',
+ 'city': u'Berlin',
+ 'email': 'Termin@VIPRelax.Berlin',
+ 'homepage': u'http://www.VIPRelax.eu',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Erotische Massage',
+ 'phone': u'030 91548865',
+ 'rating': 5.0,
+ 'title': u'V.I.P. Relax Erotik-Massagen'}
+2015-12-20 16:32:31,891 - germany INFO: Items on page= 11 <200 http://branchenbuch.meinestadt.de/deutschland/suche?words=sex&page=2>
+2015-12-20 16:32:31,894 - germany ERROR: Error occured list index out of range
+2015-12-20 16:32:31,894 - germany INFO: http://branchenbuch.meinestadt.de/koeln/company/10193654
+2015-12-20 16:32:31,895 - germany INFO: http://branchenbuch.meinestadt.de/berlin/company/12784045
+2015-12-20 16:32:31,895 - germany INFO: http://branchenbuch.meinestadt.de/koeln/company/9721770
+2015-12-20 16:32:31,895 - germany INFO: http://branchenbuch.meinestadt.de/frankfurt-am-main/company/12380238
+2015-12-20 16:32:31,896 - germany INFO: Inside list item
+2015-12-20 16:32:31,909 - germany ERROR: Error occured list index out of range
+2015-12-20 16:32:31,909 - germany INFO: item = {'address': u'Alte Gasse 5, 60313, Frankfurt am Main',
+ 'city': u'Frankfurt am Main',
+ 'homepage': u'http://www.pams-lounge.de/',
+ 'industry': u'Erotische Massage',
+ 'phone': u'069 36603462',
+ 'rating': 4.0,
+ 'title': u'Pams Massage Lounge'}
+2015-12-20 16:32:31,937 - germany INFO: http://branchenbuch.meinestadt.de/frankfurt-am-main/company/12380323
+2015-12-20 16:32:31,937 - germany INFO: http://branchenbuch.meinestadt.de/koeln/company/12381164
+2015-12-20 16:32:31,938 - germany INFO: http://branchenbuch.meinestadt.de/chemnitz/company/12821982
+2015-12-20 16:32:31,938 - germany INFO: http://branchenbuch.meinestadt.de/koeln/company/12380666
+2015-12-20 16:32:31,939 - germany INFO: http://branchenbuch.meinestadt.de/marsberg/company/522559
+2015-12-20 16:32:31,939 - germany INFO: http://branchenbuch.meinestadt.de/frankfurt-am-main/company/12654930
+2015-12-20 16:32:31,940 - germany INFO: Next page found
+2015-12-20 16:32:31,946 - germany INFO: Inside list item
+2015-12-20 16:32:31,958 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.sehkraft.de
+2015-12-20 16:32:32,814 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:32:33,117 - germany INFO: item = {'address': u'Wolfsstr. 16, 50667, K\xf6ln',
+ 'city': u'K\xf6ln',
+ 'email': 'mail@sehkraft.de',
+ 'homepage': u'http://www.sehkraft.de/',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Augenarzt',
+ 'phone': u'0221 860160',
+ 'rating': 0.0,
+ 'title': u'sehkraft Augenzentrum'}
+2015-12-20 16:32:33,118 - germany INFO: Inside list item
+2015-12-20 16:32:33,129 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.sehkraft.de
+2015-12-20 16:32:33,745 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:32:34,045 - germany INFO: item = {'address': u'Oberwallstr. 7, 10117, Berlin',
+ 'city': u'Berlin',
+ 'email': 'mail@sehkraft.de',
+ 'homepage': u'http://www.sehkraft.de/',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Augenarzt',
+ 'phone': u'030 6204666',
+ 'rating': 0.0,
+ 'title': u'sehkraft Augenzentrum'}
+2015-12-20 16:32:34,046 - germany INFO: Inside list item
+2015-12-20 16:32:34,060 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.orthopaedie-alster.de
+2015-12-20 16:32:34,841 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:32:35,228 - germany INFO: item = {'address': u'Eppendorfer Landstra\xdfe 77, 22299, Hamburg',
+ 'city': u'Hamburg',
+ 'email': 'praxis@orthopaedie-alster.de',
+ 'homepage': u'http://www.orthopaedie-alster.de/',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Orthop\xe4de',
+ 'phone': u'040 46063660',
+ 'rating': 0.0,
+ 'title': u'Orthop\xe4die an der Alster'}
+2015-12-20 16:32:35,228 - germany INFO: Inside list item
+2015-12-20 16:32:35,239 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.augenchirurgie-koeln.de
+2015-12-20 16:32:36,182 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:32:36,343 - germany INFO: item = {'address': u'Schillingsrotter Str.   39-41, 50996, K\xf6ln',
+ 'city': u'K\xf6ln',
+ 'email': 'ophthalmochirurgie@links-vom-rhein.de',
+ 'homepage': u'http://www.augenchirurgie-koeln.de/',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Augenarzt',
+ 'phone': u'0221 39800240',
+ 'rating': 0.0,
+ 'title': u'Augenzentrum Klinik links vom Rhein'}
+2015-12-20 16:32:36,343 - germany INFO: Inside list item
+2015-12-20 16:32:36,356 - germany ERROR: Error occured list index out of range
+2015-12-20 16:32:36,356 - germany INFO: item = {'address': u'Bleichstr. 5, 73033, G\xf6ppingen',
+ 'city': u'G\xf6ppingen',
+ 'homepage': u'http://www.erotiklaedle.eu',
+ 'industry': u'Sexshop',
+ 'phone': u'07161 8081270',
+ 'rating': 5.0,
+ 'title': u'Erotikl\xe4dle'}
+2015-12-20 16:32:36,357 - germany INFO: Inside list item
+2015-12-20 16:32:36,372 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.cox-cologne.de
+2015-12-20 16:32:37,391 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 5912
+2015-12-20 16:32:37,415 - germany INFO: item = {'address': u'M\xfchlenbach 53, 50676, K\xf6ln',
+ 'city': u'K\xf6ln',
+ 'email': 'info@cox-cologne.de',
+ 'homepage': u'http://www.cox-cologne.de/',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Bar, Gay',
+ 'phone': u'0221 67764460',
+ 'rating': 4.0,
+ 'title': u'COX-Cologne'}
+2015-12-20 16:32:37,416 - germany INFO: Inside list item
+2015-12-20 16:32:37,426 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.zahnarztpraxis-tiergarten.de
+2015-12-20 16:32:37,913 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 2925
+2015-12-20 16:32:37,914 - germany INFO: item = {'address': u'Turmstr.  55, 10551, Berlin',
+ 'city': u'Berlin',
+ 'email': 'praxis@bartsch-munding.de',
+ 'homepage': u'http://www.zahnarztpraxis-tiergarten.de/',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Zahnarzt',
+ 'phone': u'030 3951027',
+ 'rating': 0.0,
+ 'title': u'Zahnarztpraxis K.Bartsch-Munding und Kollegen'}
+2015-12-20 16:32:37,944 - germany INFO: Inside list item
+2015-12-20 16:32:37,955 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.dr-flach.de
+2015-12-20 16:32:38,221 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 3630
+2015-12-20 16:32:38,222 - germany INFO: item = {'address': u'Wall 32, 42103, Wuppertal',
+ 'city': u'Wuppertal',
+ 'email': 'info@dr-flach.de',
+ 'homepage': u'http://www.dr-flach.de/',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Zahnarzt und Kieferorthop\xe4de',
+ 'phone': u'0202 459021',
+ 'rating': 0.0,
+ 'title': u'Zahnarztpraxis Dr. med. dent. Marcus Flach'}
+2015-12-20 16:32:38,223 - germany INFO: Inside list item
+2015-12-20 16:32:38,234 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.implantologin.de
+2015-12-20 16:32:38,768 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 302 232
+2015-12-20 16:32:38,769 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): reginedressler.jimdo.com
+2015-12-20 16:32:40,172 - requests.packages.urllib3.connectionpool DEBUG: "GET /team-und-praxis/ HTTP/1.1" 301 0
+2015-12-20 16:32:40,173 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.zahnarzt-praxis-karlsruhe.de
+2015-12-20 16:32:40,933 - requests.packages.urllib3.connectionpool DEBUG: "GET /team-und-praxis/ HTTP/1.1" 301 0
+2015-12-20 16:32:41,224 - requests.packages.urllib3.connectionpool DEBUG: "GET /dr-regine-dressler/ HTTP/1.1" 200 14661
+2015-12-20 16:32:41,428 - germany INFO: item = {'address': u'Steigstr. 5, 76327, Pfinztal',
+ 'city': u'Pfinztal',
+ 'email': 'dr_dressler@t-online.de',
+ 'homepage': u'http://www.implantologin.de/',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Zahnarzt und Kieferorthop\xe4de',
+ 'phone': u'0721 463103',
+ 'rating': 4.0,
+ 'title': u'Zahnarztpraxis Dr. Regine Dressler'}
+2015-12-20 16:32:41,429 - germany INFO: Inside list item
+2015-12-20 16:32:41,447 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.zahnmundkiefergesicht.de
+2015-12-20 16:32:42,473 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:32:42,764 - germany INFO: item = {'address': u'K\xf6ln-Berliner-Str. 1, 44287, Dortmund',
+ 'city': u'Dortmund',
+ 'email': 'kontakt@zahnmundkiefergesicht.de',
+ 'homepage': u'http://www.zahnmundkiefergesicht.de/',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Zahnarzt',
+ 'phone': u'0231 5335877',
+ 'rating': 0.0,
+ 'title': u'Hartmann, Dr. Dr. med. Norbert '}
+2015-12-20 16:32:42,765 - germany INFO: Inside list item
+2015-12-20 16:32:42,789 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.dr-loelke.de
+2015-12-20 16:32:44,383 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 4609
+2015-12-20 16:32:44,384 - germany INFO: item = {'address': u'Hollerallee  35, 28209, Bremen',
+ 'city': u'Bremen',
+ 'email': 'praxis@dr-loelke.de',
+ 'homepage': u'http://www.dr-loelke.de/',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Zahnarzt',
+ 'phone': u'0421 341214',
+ 'rating': 5.0,
+ 'title': u'Zahnarztpraxis Dr. Sylvia Loelke'}
+2015-12-20 16:32:44,385 - germany INFO: Inside list item
+2015-12-20 16:32:44,396 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.dr-elberskirch.de
+2015-12-20 16:32:45,018 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 302 219
+2015-12-20 16:32:45,019 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.darbouche-elberskirch.de
+2015-12-20 16:32:45,296 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 5515
+2015-12-20 16:32:45,297 - germany INFO: item = {'address': u'Georgstr. 11, 30159, Hannover',
+ 'city': u'Hannover',
+ 'email': 'rezeption@dr-elberskirch.de',
+ 'homepage': u'http://www.dr-elberskirch.de/',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Zahnarzt',
+ 'phone': u'0511 14830',
+ 'rating': 0.0,
+ 'title': u'Zahnarzt Dr. Dietrich Elberskirch'}
+2015-12-20 16:32:45,304 - germany INFO: Items on page= 11 <200 http://branchenbuch.meinestadt.de/deutschland/suche?words=doktor&page=3>
+2015-12-20 16:32:45,307 - germany ERROR: Error occured list index out of range
+2015-12-20 16:32:45,307 - germany INFO: http://branchenbuch.meinestadt.de/weinstadt/firma/kieferorthopaedie-dr-michael-konik
+2015-12-20 16:32:45,308 - germany INFO: http://branchenbuch.meinestadt.de/bonn/firma/hno-praxis-dr-med-oliver-hofmann
+2015-12-20 16:32:45,328 - germany INFO: http://branchenbuch.meinestadt.de/dresden/firma/praxis-fuer-praenatale-diagnostik-dres-med-szendzielorzsteinlausch
+2015-12-20 16:32:45,329 - germany INFO: http://branchenbuch.meinestadt.de/koeln/firma/urologie-am-neumarkt-dr-med-frank-conrad
+2015-12-20 16:32:45,329 - germany INFO: http://branchenbuch.meinestadt.de/stuttgart/firma/zahnarztpraxis-stephan-gelhaus
+2015-12-20 16:32:45,330 - germany INFO: http://branchenbuch.meinestadt.de/frankfurt-am-main/firma/praxis-fuer-zahnheilkunde-leister-und-schulz
+2015-12-20 16:32:45,331 - germany INFO: http://branchenbuch.meinestadt.de/duisburg/firma/klinik-fuer-refraktive-und-ophthalmo-chirurgie-des-ejk-niederrhein
+2015-12-20 16:32:45,332 - germany INFO: http://branchenbuch.meinestadt.de/koeln/firma/zahnaerztliche-gemeinschaftspraxis-dres-foerster-marenbach-und-marenbach
+2015-12-20 16:32:45,332 - germany INFO: http://branchenbuch.meinestadt.de/luedenscheid/firma/praxis-fuer-zahn--mund--und-kieferheilkunde-dr-nadine-griesenbrock
+2015-12-20 16:32:45,333 - germany INFO: http://branchenbuch.meinestadt.de/dortmund/firma/clinic-im-centrum
+2015-12-20 16:32:45,334 - germany INFO: Next page found
+2015-12-20 16:32:45,336 - germany INFO: Inside list item
+2015-12-20 16:32:45,348 - germany ERROR: Error occured list index out of range
+2015-12-20 16:32:45,348 - germany INFO: item = {'address': u'Alt-Moabit 73, 10555, Berlin',
+ 'city': u'Berlin',
+ 'homepage': u'http://www.erotic-massage-berlin.de/',
+ 'industry': u'Erotische Massage',
+ 'phone': u'030 26679498',
+ 'rating': 0.0,
+ 'title': u'Tantra Center Berlin'}
+2015-12-20 16:32:45,349 - germany INFO: Inside list item
+2015-12-20 16:32:45,364 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.deck-5.de
+2015-12-20 16:32:46,662 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:32:46,821 - germany INFO: item = {'address': u'Mathiasstr. 5, 50676, K\xf6ln',
+ 'city': u'K\xf6ln',
+ 'email': 'info@deck-5.de',
+ 'homepage': u'http://www.deck-5.de',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Gay, Schankwirtschaft',
+ 'phone': u'0221 9926704',
+ 'rating': 3.0,
+ 'title': u'Deck5'}
+2015-12-20 16:32:46,828 - germany INFO: Items on page= 11 <200 http://branchenbuch.meinestadt.de/deutschland/suche?words=sex&page=3>
+2015-12-20 16:32:46,831 - germany ERROR: Error occured list index out of range
+2015-12-20 16:32:46,831 - germany INFO: http://branchenbuch.meinestadt.de/frankfurt-am-main/company/12856599
+2015-12-20 16:32:46,832 - germany INFO: http://branchenbuch.meinestadt.de/wesel/company/9187259
+2015-12-20 16:32:46,832 - germany INFO: Inside list item
+2015-12-20 16:32:46,846 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.silhouette-massage.de
+2015-12-20 16:32:47,928 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 7053
+2015-12-20 16:32:47,931 - germany INFO: item = {'address': u'Westerbachstr. 179, 65936, Frankfurt am Main',
+ 'city': u'Frankfurt am Main',
+ 'email': 'info@silhouette-massage.de',
+ 'homepage': u'http://www.silhouette-massage.de',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Erotische Massage',
+ 'phone': u'069 37002655',
+ 'rating': 5.0,
+ 'title': u'Silhouette Massage Studio'}
+2015-12-20 16:32:47,931 - germany INFO: Inside list item
+2015-12-20 16:32:47,944 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.parkschlossdali.de
+2015-12-20 16:32:49,622 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:32:49,766 - germany INFO: item = {'address': u'Madfelder Str. 2, 34431, Marsberg',
+ 'city': u'Marsberg',
+ 'email': 'info@parkschlossdali.de',
+ 'homepage': u'http://www.parkschlossdali.de',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Sauna- & Erotikclub',
+ 'phone': u'02991 78156',
+ 'rating': 0.0,
+ 'title': u'Parkschloss Dali'}
+2015-12-20 16:32:49,767 - germany INFO: Inside list item
+2015-12-20 16:32:49,787 - germany ERROR: Error occured list index out of range
+2015-12-20 16:32:49,787 - germany INFO: item = {'address': u'Blaubach 6-8, 50676, K\xf6ln',
+ 'city': u'K\xf6ln',
+ 'homepage': u'http://www.orion.de',
+ 'industry': u'Orion, Sexshop',
+ 'phone': u'0221 218430',
+ 'rating': 0.0,
+ 'title': u'ORION Erotikfachgesch\xe4ft K\xf6ln'}
+2015-12-20 16:32:49,788 - germany INFO: Inside list item
+2015-12-20 16:32:49,811 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.kaskade-massagestudio.de
+2015-12-20 16:32:52,575 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 4344
+2015-12-20 16:32:52,577 - germany INFO: item = {'address': u'Stiftstr. 22, 60313, Frankfurt am Main',
+ 'city': u'Frankfurt am Main',
+ 'email': 'kaskade-massagestudio@mailfish.de',
+ 'homepage': u'http://www.kaskade-massagestudio.de',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Erotische Massage',
+ 'phone': u'069 15341529',
+ 'rating': 0.0,
+ 'title': u'Kaskade Erotik Massagestudio'}
+2015-12-20 16:32:52,594 - germany INFO: http://branchenbuch.meinestadt.de/koeln/company/3205928
+2015-12-20 16:32:52,595 - germany INFO: http://branchenbuch.meinestadt.de/bonn/company/12414050
+2015-12-20 16:32:52,596 - germany INFO: http://branchenbuch.meinestadt.de/dierdorf/company/12516004
+2015-12-20 16:32:52,597 - germany INFO: http://branchenbuch.meinestadt.de/kaufering/company/12704647
+2015-12-20 16:32:52,597 - germany INFO: http://branchenbuch.meinestadt.de/berlin/company/12855554
+2015-12-20 16:32:52,598 - germany INFO: http://branchenbuch.meinestadt.de/stuttgart/company/12703088
+2015-12-20 16:32:52,599 - germany INFO: http://branchenbuch.meinestadt.de/goeppingen/company/346550
+2015-12-20 16:32:52,599 - germany INFO: http://branchenbuch.meinestadt.de/rheda-wiedenbrueck/company/12822715
+2015-12-20 16:32:52,601 - germany INFO: Next page found
+2015-12-20 16:32:52,609 - germany INFO: Inside list item
+2015-12-20 16:32:52,621 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.orchideemassage.com
+2015-12-20 16:32:53,592 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 9759
+2015-12-20 16:32:53,594 - germany INFO: item = {'address': u'Carl-Benz-Str. 7, 60314, Frankfurt am Main',
+ 'city': u'Frankfurt am Main',
+ 'email': 'orchidee-massage@mailfish.de',
+ 'homepage': u'http://www.orchideemassage.com/',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Erotische Massage',
+ 'phone': u'069 95645265',
+ 'rating': 0.0,
+ 'title': u'Orchidee Massage Frankfurt'}
+2015-12-20 16:32:53,595 - germany INFO: Inside list item
+2015-12-20 16:32:53,600 - germany ERROR: Error occured list index out of range
+2015-12-20 16:32:53,600 - germany INFO: item = {'title': u'Gay Sex Messe'}
+2015-12-20 16:32:53,615 - germany INFO: Inside list item
+2015-12-20 16:32:53,628 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.hno-hofmann.de
+2015-12-20 16:32:54,176 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 2114
+2015-12-20 16:32:54,177 - germany INFO: item = {'address': u'Markt  35, 53111, Bonn',
+ 'city': u'Bonn',
+ 'email': 'info@hno-hofmann.de',
+ 'homepage': u'http://www.hno-hofmann.de/',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'HNO-Arzt',
+ 'phone': u'0228 637466',
+ 'rating': 0.0,
+ 'title': u'HNO Praxis Dr. med. Oliver Hofmann'}
+2015-12-20 16:32:54,177 - germany INFO: Inside list item
+2015-12-20 16:32:54,189 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.konik.de
+2015-12-20 16:32:54,768 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:32:55,391 - germany INFO: item = {'address': u'Str\xfcmpfelbacher Str.  21, 71384, Weinstadt',
+ 'city': u'Weinstadt',
+ 'email': 'info@konik.de',
+ 'homepage': u'http://www.konik.de/',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Niedergelassene Zahn\xe4rzte f\xfcr Kieferorthop\xe4die',
+ 'phone': u'07151 969400',
+ 'rating': 5.0,
+ 'title': u'Kieferorthop\xe4die Dr. Michael Konik'}
+2015-12-20 16:32:55,419 - germany INFO: Inside list item
+2015-12-20 16:32:55,432 - germany ERROR: Error occured list index out of range
+2015-12-20 16:32:55,432 - germany INFO: item = {'address': u'Mathiasstr. 23, 50676, K\xf6ln',
+ 'city': u'K\xf6ln',
+ 'homepage': u'http://www.sexundgaycenter.com/',
+ 'industry': u'Sexkino, Sexshop',
+ 'phone': u'0221 2405771',
+ 'rating': 0.0,
+ 'title': u'Gay & Sex Center'}
+2015-12-20 16:32:55,433 - germany INFO: Inside list item
+2015-12-20 16:32:55,443 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.clinic-im-centrum.de
+2015-12-20 16:32:55,786 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 301 354
+2015-12-20 16:32:56,052 - requests.packages.urllib3.connectionpool DEBUG: "GET /de/startseite/index.html HTTP/1.1" 200 None
+2015-12-20 16:32:56,530 - germany INFO: item = {'address': u'Luisenstr. 14, 44137, Dortmund',
+ 'city': u'Dortmund',
+ 'email': 'info@clinic-im-centrum.de',
+ 'homepage': u'http://www.clinic-im-centrum.de/',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Plastischer Chirurg',
+ 'phone': u'0231 1657771',
+ 'rating': 0.0,
+ 'title': u'Clinic im Centrum'}
+2015-12-20 16:32:56,530 - germany INFO: Inside list item
+2015-12-20 16:32:56,543 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.x-sin.de
+2015-12-20 16:33:03,370 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 16721
+2015-12-20 16:33:03,526 - germany INFO: item = {'address': u'Eva-Brinkman-Stege 7, 46485, Wesel',
+ 'city': u'Wesel',
+ 'email': 'kontakt@x-sin.de',
+ 'homepage': u'http://www.x-sin.de',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Dienstleistung Unterhaltung & Erholung, Sexshop',
+ 'phone': u'0281 4058610',
+ 'rating': 0.0,
+ 'title': u'X-Sin'}
+2015-12-20 16:33:03,527 - germany INFO: Inside list item
+2015-12-20 16:33:03,540 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.lovertoys-shop.de
+2015-12-20 16:33:04,436 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:33:04,440 - germany INFO: item = {'address': u'Theaterstr. 15, 09111, Chemnitz',
+ 'city': u'Chemnitz',
+ 'email': 'support@lovertoys-shop.de',
+ 'homepage': u'http://www.lovertoys-shop.de',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Online Shop, Sexshop',
+ 'phone': u'0371 48189406',
+ 'rating': 0.0,
+ 'title': u'Lovertoys-Shop - Ero24-Online-Versand'}
+2015-12-20 16:33:04,511 - germany INFO: Inside list item
+2015-12-20 16:33:04,522 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.augenklinik-duisburg.de
+2015-12-20 16:33:05,147 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:33:05,305 - germany INFO: item = {'address': u'Fahrner Str. 133, 47169, Duisburg',
+ 'city': u'Duisburg',
+ 'email': 'info@augenklinik-duisburg.de',
+ 'homepage': u'http://www.augenklinik-duisburg.de/',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Chirurg, Krankenhaus',
+ 'phone': u'0203 5081711',
+ 'rating': 0.0,
+ 'title': u'Klinik f\xfcr Refraktive und Ophthalmo - Chirurgie des EJK Duisburg-Nord'}
+2015-12-20 16:33:05,305 - germany INFO: Inside list item
+2015-12-20 16:33:05,317 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.implantologie-frankfurt.net
+2015-12-20 16:33:07,659 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:33:07,660 - germany INFO: item = {'address': u'Walther-von-Cronberg-Platz  13, 60594, Frankfurt am Main',
+ 'city': u'Frankfurt am Main',
+ 'email': 'zahnarztpraxis@leister-schulz.de',
+ 'homepage': u'http://www.implantologie-frankfurt.net/',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Zahnarzt',
+ 'phone': u'069 66076655',
+ 'rating': 5.0,
+ 'title': u'Praxis f\xfcr Zahnheilkunde Leister & Schulz'}
+2015-12-20 16:33:07,661 - germany INFO: Inside list item
+2015-12-20 16:33:07,673 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.gelhaus.de
+2015-12-20 16:33:09,700 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:33:09,701 - germany INFO: item = {'address': u'Curiestr. 4, 70563, Stuttgart',
+ 'city': u'Stuttgart',
+ 'email': 'stephan@gelhaus.de',
+ 'homepage': u'http://www.gelhaus.de/',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Zahnarzt',
+ 'phone': u'0711 6204544',
+ 'rating': 0.0,
+ 'title': u'Zahnarztpraxis Stephan Gelhaus'}
+2015-12-20 16:33:09,702 - germany INFO: Inside list item
+2015-12-20 16:33:09,716 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.velvet-massage.de
+2015-12-20 16:33:12,379 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 6753
+2015-12-20 16:33:12,380 - germany INFO: item = {'address': u'Bleiden Str. 2, 60311, Frankfurt am Main',
+ 'city': u'Frankfurt am Main',
+ 'email': 'velvet.massagestudio@gmx.de',
+ 'homepage': u'http://www.velvet-massage.de/',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Erotische Massage, Massage',
+ 'phone': u'069 13384949',
+ 'rating': 5.0,
+ 'title': u'Velvet Massagestudio'}
+2015-12-20 16:33:12,387 - germany INFO: Items on page= 11 <200 http://branchenbuch.meinestadt.de/deutschland/suche?words=doktor&page=4>
+2015-12-20 16:33:12,390 - germany ERROR: Error occured list index out of range
+2015-12-20 16:33:12,390 - germany INFO: http://branchenbuch.meinestadt.de/berlin/firma/ahlring-bonaventura-dr-christine
+2015-12-20 16:33:12,391 - germany INFO: http://branchenbuch.meinestadt.de/mannheim/firma/mannheimer-klinik-fuer-plastische-chirurgie
+2015-12-20 16:33:12,413 - germany INFO: http://branchenbuch.meinestadt.de/ingolstadt/firma/gemeinschaftspraxis-dr-dirk-mueller-busch-dr-astrid-wildenhof-heidemarie-drechsler
+2015-12-20 16:33:12,414 - germany INFO: http://branchenbuch.meinestadt.de/essen-ruhr/firma/a-b-c-acht-aerzte-im-team-dr-herold-und-kollegen
+2015-12-20 16:33:12,415 - germany INFO: http://branchenbuch.meinestadt.de/oppenau/firma/praxis-dr-med-dent-alexander-oberle-master-of-science
+2015-12-20 16:33:12,415 - germany INFO: http://branchenbuch.meinestadt.de/koblenz/firma/internistische-praxis-peter-emsbach
+2015-12-20 16:33:12,416 - germany INFO: http://branchenbuch.meinestadt.de/bonn/firma/dr-med-dr-troph-gordana-rosen
+2015-12-20 16:33:12,416 - germany INFO: http://branchenbuch.meinestadt.de/koeln/firma/praxis-fuer-zahnheilkunde---dr-guenther-schlimbach
+2015-12-20 16:33:12,417 - germany INFO: http://branchenbuch.meinestadt.de/moenchengladbach/firma/institut-fuer-pathologie-dr-med-roesler-und-dr-med-ortloff
+2015-12-20 16:33:12,418 - germany INFO: http://branchenbuch.meinestadt.de/bernkastel-kues/firma/orthopaedische-praxis-dr-martin-quarz
+2015-12-20 16:33:12,418 - germany INFO: Next page found
+2015-12-20 16:33:12,424 - germany INFO: Inside list item
+2015-12-20 16:33:12,438 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.sm-equipment.com
+2015-12-20 16:33:13,485 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 20672
+2015-12-20 16:33:13,498 - germany INFO: item = {'address': u'Karl-Schurz-Str. 43, 73037, G\xf6ppingen',
+ 'city': u'G\xf6ppingen',
+ 'email': 'info@sm-equipment.com',
+ 'homepage': u'http://www.sm-equipment.com',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'M\xf6bel & Hausrat Einzelhandel, Sexshop',
+ 'phone': u'07161 250113',
+ 'rating': 0.0,
+ 'title': u'Birgit Rank Sweet Dreams'}
+2015-12-20 16:33:13,505 - germany INFO: Items on page= 11 <200 http://branchenbuch.meinestadt.de/deutschland/suche?words=sex&page=4>
+2015-12-20 16:33:13,507 - germany ERROR: Error occured list index out of range
+2015-12-20 16:33:13,508 - germany INFO: http://branchenbuch.meinestadt.de/freital/company/12703143
+2015-12-20 16:33:13,508 - germany INFO: http://branchenbuch.meinestadt.de/gevelsberg/company/12754620
+2015-12-20 16:33:13,509 - germany INFO: Inside list item
+2015-12-20 16:33:13,522 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): argjendbytyqi.com
+2015-12-20 16:33:14,200 - germany ERROR: Error occured cannot concatenate 'str' and 'MaxRetryError' objects
+2015-12-20 16:33:14,201 - germany INFO: item = {'address': u'kosmote 15484, 13585, Berlin',
+ 'city': u'Berlin',
+ 'email': 'argjend@argjendbytyqi.com',
+ 'homepage': u'http://argjendbytyqi.com',
+ 'homepage_available': 0,
+ 'html5': 0,
+ 'industry': u'Sexshop',
+ 'phone': u'021564165456',
+ 'rating': 0.0,
+ 'title': u'argjendbytyqi'}
+2015-12-20 16:33:14,201 - germany INFO: Inside list item
+2015-12-20 16:33:14,213 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.zahnarztpraxis-griesenbrock.de
+2015-12-20 16:33:15,152 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 301 None
+2015-12-20 16:33:15,154 - requests.packages.urllib3.connectionpool INFO: Starting new HTTPS connection (1): zahnarztpraxis-griesenbrock.de
+2015-12-20 16:33:16,415 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:33:16,581 - germany INFO: item = {'address': u'Knapper Str. 2, 58507, L\xfcdenscheid',
+ 'city': u'L\xfcdenscheid',
+ 'email': 'info@zahnarztpraxis-griesenbrock.de',
+ 'homepage': u'http://www.zahnarztpraxis-griesenbrock.de/',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Zahnarzt und Kieferorthop\xe4de',
+ 'phone': u'02351 4324333',
+ 'rating': 0.0,
+ 'title': u'Praxis f\xfcr Zahn-, Mund- und Kieferheilkunde Dr. Nadine Griesenbrock'}
+2015-12-20 16:33:16,582 - germany INFO: Inside list item
+2015-12-20 16:33:16,592 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.praenatal-dresden.de
+2015-12-20 16:33:16,761 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 16140
+2015-12-20 16:33:16,768 - germany INFO: item = {'address': u'Friedrichstr. 32, 01067, Dresden',
+ 'city': u'Dresden',
+ 'email': 'info@praenatal-dresden.de',
+ 'homepage': u'http://www.praenatal-dresden.de/',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Gyn\xe4kologe (Frauenarzt)',
+ 'phone': u'0351 4810511',
+ 'rating': 5.0,
+ 'title': u'Praxis f\xfcr pr\xe4natale Diagnostik, Dres. med. Szendzielorz/Stein/Lausch'}
+2015-12-20 16:33:16,768 - germany INFO: Inside list item
+2015-12-20 16:33:16,781 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.dollslounge.de
+2015-12-20 16:33:18,449 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 301 None
+2015-12-20 16:33:18,450 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): dollslounge.de
+2015-12-20 16:33:19,693 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:33:19,864 - germany INFO: item = {'address': u'Nelkenweg 26, 33378, Rheda-Wiedenbr\xfcck',
+ 'city': u'Rheda-Wiedenbr\xfcck',
+ 'email': 'info@dollslounge.de',
+ 'homepage': u'http://www.dollslounge.de',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Sexshop',
+ 'phone': u'05242189158',
+ 'rating': 0.0,
+ 'title': u"Doll's Lounge, Barbig & Westphal GbR"}
+2015-12-20 16:33:19,878 - germany INFO: http://branchenbuch.meinestadt.de/hamburg/company/12188492
+2015-12-20 16:33:19,879 - germany INFO: http://branchenbuch.meinestadt.de/bad-blankenburg/company/12846735
+2015-12-20 16:33:19,879 - germany INFO: http://branchenbuch.meinestadt.de/norderstedt/company/12652328
+2015-12-20 16:33:19,880 - germany INFO: http://branchenbuch.meinestadt.de/detmold/company/12775001
+2015-12-20 16:33:19,881 - germany INFO: http://branchenbuch.meinestadt.de/trier/company/12679021
+2015-12-20 16:33:19,881 - germany INFO: http://branchenbuch.meinestadt.de/berlin/company/11514420
+2015-12-20 16:33:19,882 - germany INFO: http://branchenbuch.meinestadt.de/duesseldorf/company/12826452
+2015-12-20 16:33:19,882 - germany INFO: http://branchenbuch.meinestadt.de/duisburg/company/12758798
+2015-12-20 16:33:19,883 - germany INFO: Next page found
+2015-12-20 16:33:19,893 - germany INFO: Inside list item
+2015-12-20 16:33:19,907 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.discrete-store.com
+2015-12-20 16:33:20,947 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 6698
+2015-12-20 16:33:20,949 - germany INFO: item = {'address': u'Flughafenstra\xdfe 43, Im Flughafen Stuttgart Terminal 3 Ebene 2, 70629, Stuttgart',
+ 'city': u'Stuttgart',
+ 'email': 'info@discrete-store.com',
+ 'homepage': u'http://www.discrete-store.com',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Sexshop',
+ 'phone': u'071148999466',
+ 'rating': 0.0,
+ 'title': u'Beate Uhse Lizenz. SJ discrete store'}
+2015-12-20 16:33:20,949 - germany INFO: Inside list item
+2015-12-20 16:33:20,970 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.sauna-vulcano.de
+2015-12-20 16:33:22,481 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:33:22,482 - germany INFO: item = {'address': u'Marienplatz 3, 50676, K\xf6ln',
+ 'city': u'K\xf6ln',
+ 'email': 'info@sauna-vulcano.de',
+ 'homepage': u'http://www.sauna-vulcano.de',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Gay, Sauna',
+ 'phone': u'0221 216051',
+ 'rating': 0.0,
+ 'title': u'SAUNABAD VULCANO GmbH'}
+2015-12-20 16:33:22,483 - germany INFO: Inside list item
+2015-12-20 16:33:22,502 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.urologie-am-neumarkt.de
+2015-12-20 16:33:23,042 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 6962
+2015-12-20 16:33:23,044 - germany INFO: item = {'address': u'Neumarkt 36-38, 50667, K\xf6ln',
+ 'city': u'K\xf6ln',
+ 'email': 'info@urologie-am-neumarkt.de',
+ 'homepage': u'http://www.urologie-am-neumarkt.de/',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Urologe',
+ 'phone': u'0221 2806767',
+ 'rating': 0.0,
+ 'title': u'Urologie am Neumarkt, Dr. med Frank Conrad'}
+2015-12-20 16:33:23,045 - germany INFO: Inside list item
+2015-12-20 16:33:23,066 - germany ERROR: Error occured list index out of range
+2015-12-20 16:33:23,066 - germany INFO: item = {'address': u'Poststr. 20, 56269, Dierdorf',
+ 'city': u'Dierdorf',
+ 'homepage': u'http://www.finca-erotica.com/',
+ 'industry': u'Sauna- & Erotikclub',
+ 'phone': u'02689 9729450',
+ 'rating': 5.0,
+ 'title': u'FKK-Club Finca Erotica'}
+2015-12-20 16:33:23,090 - germany INFO: Inside list item
+2015-12-20 16:33:23,105 - germany ERROR: Error occured list index out of range
+2015-12-20 16:33:23,106 - germany INFO: item = {'address': u'Bischofsplatz 4, 53111, Bonn',
+ 'city': u'Bonn',
+ 'homepage': u'http://www.beate-uhse.com',
+ 'industry': u'Beate Uhse, Sexshop',
+ 'phone': u'0228 633744',
+ 'rating': 5.0,
+ 'title': u'Beate Uhse'}
+2015-12-20 16:33:23,107 - germany INFO: Inside list item
+2015-12-20 16:33:23,129 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.4-moments-kaufering.de
+2015-12-20 16:33:24,340 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 301 0
+2015-12-20 16:33:24,341 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): 4-moments-kaufering.de
+2015-12-20 16:33:25,695 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:33:25,850 - germany INFO: item = {'address': u'Blumenweg 5, 86916, Kaufering',
+ 'city': u'Kaufering',
+ 'email': 'info@4-moments-kaufering.de',
+ 'homepage': u'http://www.4-moments-kaufering.de',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Bekleidung Einzelhandel, Sexshop, Unterw\xe4sche Einzelhandel',
+ 'phone': u'0819166904',
+ 'rating': 0.0,
+ 'title': u'4moments'}
+2015-12-20 16:33:25,851 - germany INFO: Inside list item
+2015-12-20 16:33:25,862 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.bonaventura-zahn.de
+2015-12-20 16:33:26,701 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:33:26,847 - germany INFO: item = {'address': u'Berliner Str. 3, 14169, Berlin',
+ 'city': u'Berlin',
+ 'email': 'chrbonaventura@aol.com',
+ 'homepage': u'http://www.bonaventura-zahn.de/',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Zahnarzt und Kieferorthop\xe4de',
+ 'phone': u'030 81059690',
+ 'rating': 0.0,
+ 'title': u'Ahlring-Bonaventura, Dr. Christine'}
+2015-12-20 16:33:26,868 - germany INFO: Inside list item
+2015-12-20 16:33:26,883 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.zahnarzt-koeln-porz.de
+2015-12-20 16:33:27,551 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 24985
+2015-12-20 16:33:27,982 - germany INFO: item = {'address': u'K\xf6lner Str. 48, 51149, K\xf6ln',
+ 'city': u'K\xf6ln',
+ 'email': 'zahnarztporz@aol.com',
+ 'homepage': u'http://www.zahnarzt-koeln-porz.de/',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Zahnarzt und Kieferorthop\xe4de',
+ 'phone': u'02203 699470',
+ 'rating': 5.0,
+ 'title': u'Zahn\xe4rztliche Gemeinschaftspraxis Dres. F\xf6rster-Marenbach & Marenbach'}
+2015-12-20 16:33:27,983 - germany INFO: Inside list item
+2015-12-20 16:33:27,994 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.beautyclinic.de
+2015-12-20 16:33:29,431 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 301 20
+2015-12-20 16:33:29,432 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): beautyclinic.de
+2015-12-20 16:33:29,744 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 17756
+2015-12-20 16:33:30,043 - germany INFO: item = {'address': u'Mollstr. 45, 68165, Mannheim',
+ 'city': u'Mannheim',
+ 'email': 'info@beautyclinic.de',
+ 'homepage': u'http://www.beautyclinic.de/',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Plastischer Chirurg',
+ 'phone': u'0621 152800',
+ 'rating': 0.0,
+ 'title': u'Mannheimer Klinik f\xfcr Plastische Chirurgie'}
+2015-12-20 16:33:30,044 - germany INFO: Inside list item
+2015-12-20 16:33:30,056 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.drquarzmartin.homepage.t-online.de
+2015-12-20 16:33:30,672 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 16354
+2015-12-20 16:33:31,022 - germany INFO: item = {'address': u'Panoramastr., 54470, Bernkastel-Kues',
+ 'city': u'Bernkastel-Kues',
+ 'email': 'drquarz.reha@t-online.de',
+ 'homepage': u'http://www.drquarzmartin.homepage.t-online.de/',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Orthop\xe4de',
+ 'phone': u'06531 921732',
+ 'rating': 0.0,
+ 'title': u'Orthop\xe4dische Praxis Dr. Martin Quarz'}
+2015-12-20 16:33:31,030 - germany INFO: Items on page= 11 <200 http://branchenbuch.meinestadt.de/deutschland/suche?words=doktor&page=5>
+2015-12-20 16:33:31,032 - germany ERROR: Error occured list index out of range
+2015-12-20 16:33:31,033 - germany INFO: http://branchenbuch.meinestadt.de/essen-ruhr/firma/laser-forum-essen-gmbh
+2015-12-20 16:33:31,062 - germany INFO: http://branchenbuch.meinestadt.de/bahlingen/firma/zahnarztpraxis-marcus-hamschmidt
+2015-12-20 16:33:31,062 - germany INFO: http://branchenbuch.meinestadt.de/reutlingen/firma/kleintierklinik-huettig
+2015-12-20 16:33:31,063 - germany INFO: http://branchenbuch.meinestadt.de/gelsenkirchen/firma/zahnarztpraxis-dr-victor-barna
+2015-12-20 16:33:31,064 - germany INFO: http://branchenbuch.meinestadt.de/muenchen/firma/zarth-dr-med-andreas
+2015-12-20 16:33:31,064 - germany INFO: http://branchenbuch.meinestadt.de/muenchen/firma/gemeinschaftspraxis-fuer-kinderzahnheilkunde-dr-butz-und-kollegen
+2015-12-20 16:33:31,065 - germany INFO: http://branchenbuch.meinestadt.de/karlsruhe/firma/praxis-dr-krull
+2015-12-20 16:33:31,065 - germany INFO: http://branchenbuch.meinestadt.de/bad-soden-am-taunus/firma/kinder--und-jugendzahnmedizin-dr-andrea-galm
+2015-12-20 16:33:31,066 - germany INFO: http://branchenbuch.meinestadt.de/moers/firma/zahnaerztliche-gemeinschaftspraxis-dr-andreas-grundmann-und-ursula-boehme
+2015-12-20 16:33:31,066 - germany INFO: http://branchenbuch.meinestadt.de/koeln/firma/laig-drmeddent-oliver
+2015-12-20 16:33:31,067 - germany INFO: next page not found , terminate here
+2015-12-20 16:33:31,071 - germany INFO: Inside list item
+2015-12-20 16:33:31,082 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.zahnarzt-oberle.de
+2015-12-20 16:33:32,595 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 4412
+2015-12-20 16:33:32,751 - germany INFO: item = {'address': u'Dreik\xf6nigweg 2, 77728, Oppenau',
+ 'city': u'Oppenau',
+ 'email': 'info@zahnarzt-oberle.de',
+ 'homepage': u'http://www.zahnarzt-oberle.de/',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Zahnarzt und Kieferorthop\xe4de',
+ 'phone': u'07804 3571',
+ 'rating': 0.0,
+ 'title': u'Praxis Dr. med. dent. Alexander Oberle Master of Science'}
+2015-12-20 16:33:32,751 - germany INFO: Inside list item
+2015-12-20 16:33:32,764 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.doktor-herold.de
+2015-12-20 16:33:33,081 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 14999
+2015-12-20 16:33:33,398 - germany INFO: item = {'address': u'Limbecker Platz 4, 45127, Essen/Ruhr',
+ 'city': u'Essen/Ruhr',
+ 'email': 'drthomasherold@yahoo.de',
+ 'homepage': u'http://www.doktor-herold.de/',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Zahnarzt',
+ 'phone': u'0201 233222',
+ 'rating': 0.0,
+ 'title': u'A - B - C Acht \xc4rzte im Team Dr. Herold und Kollegen'}
+2015-12-20 16:33:33,399 - germany INFO: Inside list item
+2015-12-20 16:33:33,425 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.schind-luder.de
+2015-12-20 16:33:35,302 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:33:35,452 - germany INFO: item = {'address': u'Im Twiesack 1, 58285, Gevelsberg',
+ 'city': u'Gevelsberg',
+ 'email': 'info@schind-luder.de',
+ 'homepage': u'http://www.schind-luder.de',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Betten & Bettwaren Einzelhandel, Sexshop',
+ 'phone': u'02332 7886848',
+ 'rating': 0.0,
+ 'title': u'Schind-Luder GbR'}
+2015-12-20 16:33:35,453 - germany INFO: Inside list item
+2015-12-20 16:33:35,464 - germany ERROR: Error occured list index out of range
+2015-12-20 16:33:35,465 - germany INFO: item = {'address': u'R\xfcbenacher Str. 5-6, 56072, Koblenz',
+ 'city': u'Koblenz',
+ 'homepage': u'http://www.emsbach.de/',
+ 'industry': u'Arzt f\xfcr Naturheilkunde, Internist',
+ 'phone': u'0261 25061',
+ 'rating': 0.0,
+ 'title': u'Internistische Praxis Peter Emsbach'}
+2015-12-20 16:33:35,465 - germany INFO: Inside list item
+2015-12-20 16:33:35,476 - germany ERROR: Error occured list index out of range
+2015-12-20 16:33:35,476 - germany INFO: item = {'address': u'Hofmillerstr. 21, 85055, Ingolstadt',
+ 'city': u'Ingolstadt',
+ 'homepage': u'http://www.dr-mueller-busch.de/',
+ 'industry': u'Zahnarzt',
+ 'phone': u'0841 56269',
+ 'rating': 0.0,
+ 'title': u'Gemeinschaftspraxis Dr. Dirk M\xfcller-Busch, Dr. Astrid Wildenhof, Heidemarie Drechsler'}
+2015-12-20 16:33:35,507 - germany INFO: Inside list item
+2015-12-20 16:33:35,523 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.Ertupajoyz.de
+2015-12-20 16:33:39,541 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 5354
+2015-12-20 16:33:39,542 - germany INFO: item = {'address': u'Rabenauer Stra\xdfe 30, 01705, Freital',
+ 'city': u'Freital',
+ 'email': 'Ertupajoyz@gmail.com',
+ 'homepage': u'http://www.Ertupajoyz.de',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Partyservice & Catering, Sexshop, Unterw\xe4sche Einzelhandel, Veranstaltungsorganisation',
+ 'phone': u'035127684375',
+ 'rating': 0.0,
+ 'title': u'Ertupajoyz'}
+2015-12-20 16:33:39,549 - germany INFO: Items on page= 11 <200 http://branchenbuch.meinestadt.de/deutschland/suche?words=sex&page=5>
+2015-12-20 16:33:39,552 - germany ERROR: Error occured list index out of range
+2015-12-20 16:33:39,552 - germany INFO: http://branchenbuch.meinestadt.de/nuernberg/company/12846916
+2015-12-20 16:33:39,553 - germany INFO: http://branchenbuch.meinestadt.de/berlin/company/12380076
+2015-12-20 16:33:39,553 - germany INFO: Inside list item
+2015-12-20 16:33:39,566 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.danny-wellnessclub.de
+2015-12-20 16:33:40,749 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 6904
+2015-12-20 16:33:40,751 - germany INFO: item = {'address': u'Br\xfcckenstr. 38, 47053, Duisburg',
+ 'city': u'Duisburg',
+ 'email': 'info@danny-wellnessclub.de',
+ 'homepage': u'http://www.danny-wellnessclub.de',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Erotische Massage',
+ 'phone': u'0176 92308098',
+ 'rating': 0.0,
+ 'title': u'Danny Wellness'}
+2015-12-20 16:33:40,751 - germany INFO: Inside list item
+2015-12-20 16:33:40,765 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.cityboys.eu
+2015-12-20 16:33:42,378 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:33:42,381 - germany INFO: item = {'address': u'Spichernstra\xdfe 50, Hinterhof, 40476, D\xfcsseldorf',
+ 'city': u'D\xfcsseldorf',
+ 'email': 'wiwo100@yahoo.de',
+ 'homepage': u'http://www.cityboys.eu',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Sexshop',
+ 'phone': u'02111697674',
+ 'rating': 0.0,
+ 'title': u'CityBoys'}
+2015-12-20 16:33:42,381 - germany INFO: Inside list item
+2015-12-20 16:33:42,393 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.patho-institut.de
+2015-12-20 16:33:43,715 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 303 11
+2015-12-20 16:33:43,716 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.pathologie.persch-computer.de
+2015-12-20 16:33:43,888 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 1097
+2015-12-20 16:33:43,889 - germany INFO: item = {'address': u'Limitenstr. 90, 41236, M\xf6nchengladbach',
+ 'city': u'M\xf6nchengladbach',
+ 'email': 'info@patho-institut.de',
+ 'homepage': u'http://www.patho-institut.de/',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Pathologe',
+ 'phone': u'02166 628900',
+ 'rating': 0.0,
+ 'title': u'Institut f\xfcr Pathologie Dr. med. R\xf6sler & Dr. med. Ortloff'}
+2015-12-20 16:33:43,890 - germany INFO: Inside list item
+2015-12-20 16:33:43,905 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.drschlimbach.de
+2015-12-20 16:33:44,351 - requests.packages.urllib3.connectionpool DEBUG: "GET /allesklar HTTP/1.1" 302 210
+2015-12-20 16:33:44,884 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:33:45,101 - germany INFO: item = {'address': u'Buschfeldstr. 31, 51067, K\xf6ln',
+ 'city': u'K\xf6ln',
+ 'email': 'kontakt@drschlimbach.de',
+ 'homepage': u'http://www.drschlimbach.de/allesklar',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Zahnarzt',
+ 'phone': u'0221 631660',
+ 'rating': 0.0,
+ 'title': u'Praxis f\xfcr Zahnheilkunde - Dr. G\xfcnther Schlimbach'}
+2015-12-20 16:33:45,102 - germany INFO: Inside list item
+2015-12-20 16:33:45,113 - germany ERROR: Error occured list index out of range
+2015-12-20 16:33:45,113 - germany INFO: item = {'address': u'Friedensplatz 7, 53111, Bonn',
+ 'city': u'Bonn',
+ 'homepage': u'http://www.dr-rosen.de/',
+ 'industry': u'Allergologe, Arzt f\xfcr Naturheilkunde, Dermatologe (Hautarzt)',
+ 'phone': u'0228 637323',
+ 'rating': 0.0,
+ 'title': u'Dr. med. Dr. troph. Gordana Rosen'}
+2015-12-20 16:33:45,136 - germany INFO: http://branchenbuch.meinestadt.de/erfurt/company/12707997
+2015-12-20 16:33:45,136 - germany INFO: http://branchenbuch.meinestadt.de/nuernberg/company/12701751
+2015-12-20 16:33:45,137 - germany INFO: http://branchenbuch.meinestadt.de/berlin/company/12281969
+2015-12-20 16:33:45,137 - germany INFO: http://branchenbuch.meinestadt.de/essen-ruhr/company/12708018
+2015-12-20 16:33:45,138 - germany INFO: http://branchenbuch.meinestadt.de/leipzig/company/12626822
+2015-12-20 16:33:45,138 - germany INFO: http://branchenbuch.meinestadt.de/hamburg/company/12824837
+2015-12-20 16:33:45,139 - germany INFO: http://branchenbuch.meinestadt.de/berlin/company/12652195
+2015-12-20 16:33:45,139 - germany INFO: http://branchenbuch.meinestadt.de/ruesselsheim/company/12823109
+2015-12-20 16:33:45,140 - germany INFO: next page not found , terminate here
+2015-12-20 16:33:45,152 - germany INFO: Inside list item
+2015-12-20 16:33:45,168 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.secrets-trier.de
+2015-12-20 16:33:45,995 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 9296
+2015-12-20 16:33:45,996 - germany INFO: item = {'address': u'Margareteng\xe4sschen 2, 54290, Trier',
+ 'city': u'Trier',
+ 'email': 'secrets.trier@gmail.com',
+ 'homepage': u'http://www.secrets-trier.de',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Bekleidung Einzelhandel, Sexshop',
+ 'phone': u'01523 4145286',
+ 'rating': 0.0,
+ 'title': u'Boutique SECRETS'}
+2015-12-20 16:33:45,997 - germany INFO: Inside list item
+2015-12-20 16:33:46,011 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.ahlantis.de
+2015-12-20 16:33:47,130 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 1272
+2015-12-20 16:33:47,131 - germany INFO: item = {'address': u'Alter M\xfchlenweg 2, 32760, Detmold',
+ 'city': u'Detmold',
+ 'email': 'info@ahlantis.de',
+ 'homepage': u'http://www.ahlantis.de',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Kosmetik & K\xf6rperpflege Versandhandel, Sexshop',
+ 'phone': u'05231 8795541',
+ 'rating': 0.0,
+ 'title': u'Ahlantis GbR Elena & Marco Schulze'}
+2015-12-20 16:33:47,132 - germany INFO: Inside list item
+2015-12-20 16:33:47,149 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.stripper-kiel.com
+2015-12-20 16:33:48,373 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 7314
+2015-12-20 16:33:48,375 - germany INFO: item = {'address': u'Glojenbarg 26, 22848, Norderstedt',
+ 'city': u'Norderstedt',
+ 'email': 'info@strip-hamburg.de',
+ 'homepage': u'http://www.stripper-kiel.com',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'K\xfcnstleragentur, Sexshop',
+ 'phone': u'04031709986',
+ 'rating': 0.0,
+ 'title': u'stripper-kiel'}
+2015-12-20 16:33:48,375 - germany INFO: Inside list item
+2015-12-20 16:33:48,392 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.starerotic-b88.de
+2015-12-20 16:33:52,268 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:33:52,563 - germany INFO: item = {'address': u'Rudolst\xe4dter Stra\xdfe 35, B88 Landstra\xdfe, 07422, Bad Blankenburg',
+ 'city': u'Bad Blankenburg',
+ 'email': 'info@starerotic-b88.de',
+ 'homepage': u'http://www.starerotic-b88.de',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Bar, Bar, Kino, Sexshop',
+ 'phone': u'036741589540',
+ 'rating': 0.0,
+ 'title': u'Star-Erotic B88'}
+2015-12-20 16:33:52,564 - germany INFO: Inside list item
+2015-12-20 16:33:52,579 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.seventhheaven.de
+2015-12-20 16:33:57,086 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 2420
+2015-12-20 16:33:57,087 - germany INFO: item = {'address': u'Steindamm 14, 20099, Hamburg',
+ 'city': u'Hamburg',
+ 'email': 'christa.grabbert@seventhheaven.de',
+ 'homepage': u'http://www.seventhheaven.de',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Sexkino, Sexshop',
+ 'phone': u'040 28056392',
+ 'rating': 0.0,
+ 'title': u'Seventhheaven LTD&CoKg'}
+2015-12-20 16:33:57,088 - germany INFO: Inside list item
+2015-12-20 16:33:57,105 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.lf-essen.de
+2015-12-20 16:33:57,646 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:33:58,156 - germany INFO: item = {'address': u'Theaterplatz 1, 45127, Essen/Ruhr',
+ 'city': u'Essen/Ruhr',
+ 'email': 'info@lf-essen.de',
+ 'homepage': u'http://www.lf-essen.de/',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Chirurg',
+ 'phone': u'0201 1892998',
+ 'rating': 5.0,
+ 'title': u'LASER Forum Essen GmbH'}
+2015-12-20 16:33:58,157 - germany INFO: Inside list item
+2015-12-20 16:33:58,169 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.zahnarzt-am-rudolfplatz.de
+2015-12-20 16:33:58,860 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 17433
+2015-12-20 16:33:59,010 - germany INFO: item = {'address': u'Hohenzollernring 2-10, 50672, K\xf6ln',
+ 'city': u'K\xf6ln',
+ 'email': 'kontakt@zahnarzt-am-rudolfplatz.de',
+ 'homepage': u'http://www.zahnarzt-am-rudolfplatz.de/',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Zahnarzt',
+ 'phone': u'0221 37996639',
+ 'rating': 0.0,
+ 'title': u'Laig, Dr.med.dent. Oliver'}
+2015-12-20 16:33:59,038 - germany INFO: Inside list item
+2015-12-20 16:33:59,051 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.zahnschmerz24.de
+2015-12-20 16:33:59,079 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 2038
+2015-12-20 16:33:59,080 - germany INFO: item = {'address': u'Homberger Str. 72, 47441, Moers',
+ 'city': u'Moers',
+ 'email': 'andygrundmann@gmx.de',
+ 'homepage': u'http://www.zahnschmerz24.de/',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Zahnarzt',
+ 'phone': u'02841 21010',
+ 'rating': 0.0,
+ 'title': u'Zahn\xe4rztliche Gemeinschaftspraxis Dr. Andreas Grundmann & Ursula B\xf6hme'}
+2015-12-20 16:33:59,081 - germany INFO: Inside list item
+2015-12-20 16:33:59,096 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.zahnwunderland.de
+2015-12-20 16:33:59,531 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 7099
+2015-12-20 16:33:59,532 - germany INFO: item = {'address': u'K\xf6nigsteiner Str. 122, 65812, Bad Soden am Taunus',
+ 'city': u'Bad Soden am Taunus',
+ 'email': 'info@zahnwunderland.de',
+ 'homepage': u'http://www.zahnwunderland.de/',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Zahnarzt',
+ 'phone': u'06196 9997996',
+ 'rating': 0.0,
+ 'title': u'Kinder- und Jugendzahnmedizin Dr. Andrea Galm'}
+2015-12-20 16:33:59,533 - germany INFO: Inside list item
+2015-12-20 16:33:59,545 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.deinekinderzahnaerztin.de
+2015-12-20 16:34:00,395 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:34:00,426 - germany INFO: item = {'address': u'Marschallstr. 11, 80802, M\xfcnchen',
+ 'city': u'M\xfcnchen',
+ 'email': 'info@deinekinderzahnaerztin.de',
+ 'homepage': u'http://www.deinekinderzahnaerztin.de/',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Zahnarzt',
+ 'phone': u'089 3832900',
+ 'rating': 0.0,
+ 'title': u'Gemeinschaftspraxis f\xfcr Kinderzahnheilkunde Dr. Butz & Kollegen'}
+2015-12-20 16:34:00,427 - germany INFO: Inside list item
+2015-12-20 16:34:00,438 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.augenarzt-fuenf-hoefe.de
+2015-12-20 16:34:00,884 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:34:01,225 - germany INFO: item = {'address': u'Theatinerstr. 15, 80333, M\xfcnchen',
+ 'city': u'M\xfcnchen',
+ 'email': 'mail@augenarzt-fuenf-hoefe.de',
+ 'homepage': u'http://www.augenarzt-fuenf-hoefe.de/',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Augenarzt',
+ 'phone': u'089 20207373',
+ 'rating': 0.0,
+ 'title': u'Zarth, Dr. med. Andreas'}
+2015-12-20 16:34:01,226 - germany INFO: Inside list item
+2015-12-20 16:34:01,245 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.tierklinik-huettig.de
+2015-12-20 16:34:01,568 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 276
+2015-12-20 16:34:01,569 - germany INFO: item = {'address': u'Kurrerstr.  40-3, 72762, Reutlingen',
+ 'city': u'Reutlingen',
+ 'email': 'anmeldung@tierklinik-huettig.de',
+ 'homepage': u'http://www.tierklinik-huettig.de/',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Tierarzt, Tierklinik',
+ 'phone': u'07121 93210',
+ 'rating': 0.0,
+ 'title': u'Kleintierklinik H\xfcttig'}
+2015-12-20 16:34:01,570 - germany INFO: Inside list item
+2015-12-20 16:34:01,586 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.chez-michelle.de
+2015-12-20 16:34:02,927 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 5765
+2015-12-20 16:34:02,928 - germany INFO: item = {'address': u'Marburger Str. 15, 10789, Berlin',
+ 'city': u'Berlin',
+ 'email': 'info@chez-michelle.de',
+ 'homepage': u'http://www.chez-michelle.de/',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Sauna- & Erotikclub, Stripclub & Tabledance',
+ 'phone': u'030 23607236',
+ 'rating': 0.0,
+ 'title': u'Chez Michelle'}
+2015-12-20 16:34:02,929 - germany INFO: Inside list item
+2015-12-20 16:34:02,944 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.dr-krull.de
+2015-12-20 16:34:03,527 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 306
+2015-12-20 16:34:03,528 - germany INFO: item = {'address': u'Leopoldstr. 5, 76133, Karlsruhe',
+ 'city': u'Karlsruhe',
+ 'email': 'post@dr-krull.de',
+ 'homepage': u'http://www.dr-krull.de/',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Allergologe, Dermatologe (Hautarzt)',
+ 'phone': u'0721  913500',
+ 'rating': 5.0,
+ 'title': u'Praxis Dr. Krull'}
+2015-12-20 16:34:03,528 - germany INFO: Inside list item
+2015-12-20 16:34:03,540 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.dr-barna.de
+2015-12-20 16:34:04,106 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:34:04,136 - germany INFO: item = {'address': u'Ahstr. 8, 45879, Gelsenkirchen',
+ 'city': u'Gelsenkirchen',
+ 'email': 'info@dr-barna.de',
+ 'homepage': u'http://www.dr-barna.de/',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Zahnarzt',
+ 'phone': u'0209 22718',
+ 'rating': 0.0,
+ 'title': u'Zahnarztpraxis Dr. Victor Barna'}
+2015-12-20 16:34:04,164 - germany INFO: Inside list item
+2015-12-20 16:34:04,176 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.zahnarzt-hamschmidt.de
+2015-12-20 16:34:04,873 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:34:04,874 - germany INFO: item = {'address': u'Riegelerstr. 3, 79353, Bahlingen',
+ 'city': u'Bahlingen',
+ 'email': 'info@zahnarzt-hamschmidt.de',
+ 'homepage': u'http://www.zahnarzt-hamschmidt.de/',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Zahnarzt',
+ 'phone': u'07663 3988',
+ 'rating': 0.0,
+ 'title': u'Zahnarztpraxis Marcus Hamschmidt'}
+2015-12-20 16:34:04,875 - germany INFO: Inside list item
+2015-12-20 16:34:04,891 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.dreamland-berlin.de
+2015-12-20 16:34:06,070 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:34:06,097 - germany INFO: item = {'address': u'Danziger Stra\xdfe 197, bei Massagen klingeln, 10407, Berlin',
+ 'city': u'Berlin',
+ 'email': 'dreamland-massagen@t-online.de',
+ 'homepage': u'http://www.dreamland-berlin.de',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Massage, Sexshop',
+ 'phone': u'03034660184',
+ 'rating': 0.0,
+ 'title': u'Dreamland'}
+2015-12-20 16:34:06,098 - germany INFO: Inside list item
+2015-12-20 16:34:06,112 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.deluxe-massagen.com
+2015-12-20 16:34:07,260 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 5076
+2015-12-20 16:34:07,410 - germany INFO: item = {'address': u'Hillerstr. 6, 90429, N\xfcrnberg',
+ 'city': u'N\xfcrnberg',
+ 'email': 'studio@deluxe-massagen.com',
+ 'homepage': u'http://www.deluxe-massagen.com',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Erotische Massage',
+ 'phone': u'0911 5963573',
+ 'rating': 0.0,
+ 'title': u'Deluxe Massagen'}
+2015-12-20 16:34:07,429 - germany INFO: Inside list item
+2015-12-20 16:34:07,443 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.monadikosescort.de
+2015-12-20 16:34:08,332 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 404 317
+2015-12-20 16:34:08,333 - germany INFO: item = {'address': u'Uranstra\xdfe 10, 65428, R\xfcsselsheim am Main',
+ 'city': u'R\xfcsselsheim am Main',
+ 'email': 'info@monadikosescort.de',
+ 'homepage': u'http://www.monadikosescort.de',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Redaktion, Sexshop',
+ 'phone': u'061424006183',
+ 'rating': 0.0,
+ 'title': u'monadikosescort'}
+2015-12-20 16:34:08,334 - germany INFO: Inside list item
+2015-12-20 16:34:08,347 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.masculan.de
+2015-12-20 16:34:09,367 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:34:09,515 - germany INFO: item = {'address': u'An der Alster 47, 20099, Hamburg',
+ 'city': u'Hamburg',
+ 'email': 'info@mpi-pharma.de',
+ 'homepage': u'http://www.masculan.de',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Sexshop',
+ 'phone': u'0403037240',
+ 'rating': 0.0,
+ 'title': u'masculan / M.P.I. Pharmaceutica'}
+2015-12-20 16:34:09,516 - germany INFO: Inside list item
+2015-12-20 16:34:09,530 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.massagen-privat.de
+2015-12-20 16:34:10,833 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:34:11,136 - germany INFO: item = {'address': u'Friesickestr. 33, 13086, Berlin',
+ 'city': u'Berlin',
+ 'email': 'massagen-privat@t-online.de',
+ 'homepage': u'http://www.massagen-privat.de',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Erotische Massage',
+ 'phone': u'0174 3679760',
+ 'rating': 0.0,
+ 'title': u'Massagen-privat'}
+2015-12-20 16:34:11,146 - germany INFO: Inside list item
+2015-12-20 16:34:11,160 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.magic-moments-leipzig.de
+2015-12-20 16:34:12,790 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:34:12,946 - germany INFO: item = {'address': u'F\xf6pplstr. 14, 04347, Leipzig',
+ 'city': u'Leipzig',
+ 'email': 'info@magic-moments-leipzig.de',
+ 'homepage': u'http://www.magic-moments-leipzig.de',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Erotische Massage',
+ 'phone': u'0341 23659782',
+ 'rating': 0.0,
+ 'title': u'Magic Moments Massagelounge'}
+2015-12-20 16:34:12,947 - germany INFO: Inside list item
+2015-12-20 16:34:12,961 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.kinkylady.de
+2015-12-20 16:34:13,996 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 4407
+2015-12-20 16:34:13,997 - germany INFO: item = {'address': u'Flachsmarkt 4, 45127, Essen/Ruhr',
+ 'city': u'Essen/Ruhr',
+ 'email': 'info@kinkylady.de',
+ 'homepage': u'http://www.kinkylady.de',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Bekleidung Einzelhandel, Damenbekleidung Einzelhandel, Schuhe Einzelhandel, Sexshop, Unterw\xe4sche Einzelhandel',
+ 'phone': u'020136538810',
+ 'rating': 0.0,
+ 'title': u'Kinky Lady'}
+2015-12-20 16:34:13,997 - germany INFO: Inside list item
+2015-12-20 16:34:14,014 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.express18.de
+2015-12-20 16:34:15,930 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 301 178
+2015-12-20 16:34:15,931 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): express18.de
+2015-12-20 16:34:16,580 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 200 None
+2015-12-20 16:34:16,736 - germany INFO: item = {'address': u'Spielbergtor 12 d, 99099, Erfurt',
+ 'city': u'Erfurt',
+ 'email': 'info@express18.de',
+ 'homepage': u'http://www.express18.de',
+ 'homepage_available': 1,
+ 'html5': 0,
+ 'industry': u'Sexshop',
+ 'phone': u'0361 54183527',
+ 'rating': 0.0,
+ 'title': u'Express18.de - S&L Handels GbR'}
+2015-12-20 16:34:16,737 - germany INFO: Inside list item
+2015-12-20 16:34:16,751 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.heissehimbeere24.de
+2015-12-20 16:34:17,814 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 301 20
+2015-12-20 16:34:18,059 - requests.packages.urllib3.connectionpool DEBUG: "GET /de/ HTTP/1.1" 200 None
+2015-12-20 16:34:18,207 - germany INFO: item = {'address': u'Winterstr. 8, 90431, N\xfcrnberg',
+ 'city': u'N\xfcrnberg',
+ 'email': 'info@heissehimbeere24.de',
+ 'homepage': u'http://www.heissehimbeere24.de/',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Online Shop, Sexshop',
+ 'phone': u'0911 96585915',
+ 'rating': 0.0,
+ 'title': u'heissehimbeere24 - Anna J\xe4ger'}
+2015-12-20 16:34:18,207 - germany INFO: Inside list item
+2015-12-20 16:34:18,221 - requests.packages.urllib3.connectionpool INFO: Starting new HTTP connection (1): www.insomnia-berlin.de
+2015-12-20 16:34:19,219 - requests.packages.urllib3.connectionpool DEBUG: "GET / HTTP/1.1" 301 248
+2015-12-20 16:34:19,441 - requests.packages.urllib3.connectionpool DEBUG: "GET /index.html HTTP/1.1" 200 None
+2015-12-20 16:34:19,443 - germany INFO: item = {'address': u'Alt-Tempelhof 17 - 19, 12099, Berlin',
+ 'city': u'Berlin',
+ 'email': 'dominique@insomnia-berlin.de',
+ 'homepage': u'http://www.insomnia-berlin.de',
+ 'homepage_available': 1,
+ 'html5': 1,
+ 'industry': u'Diskothek, Sauna- & Erotikclub',
+ 'phone': u'030 91909891',
+ 'rating': 0.0,
+ 'title': u'Insomnia Erotic Nightclub'}
