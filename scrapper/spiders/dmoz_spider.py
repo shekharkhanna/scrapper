@@ -70,8 +70,6 @@ class DmozSpider(scrapy.Spider):
             item['homepage'] = response.xpath('//*[contains(@id,"ms-poi-homepage-id")]/a/@href').extract()[0]
             item['rating'] = len(response.css('.ms-mpd-call-to-action').css('.ms-star-rating').xpath('span').css('.ms-star-full'))*1 + len(response.css('ms-mpd-call-to-action').css('.ms-star-rating').xpath('span').css('.ms-star-half'))*0.5
             item['industry'] = ', '.join(response.css('.last-list-node').xpath('li/a/span/text()').extract())
-            encoded_email = re.search('window.atob\(\"(.*)\"\)\s+',response.xpath('//*[contains(@id,"ms-poi-mail-id")]/script').extract()[0]).group(1)
-            item['email'] = base64.b64decode(encoded_email)
             try:
                 homepage_response = requests.get(item['homepage'])
                 if(homepage_response.content.lower().find('<!doctype html>') > -1):
@@ -83,6 +81,8 @@ class DmozSpider(scrapy.Spider):
                 item['html5'] = 0
                 item['homepage_available'] = 0
                 self.logger.error("Error occured " + e.message)
+            encoded_email = re.search('window.atob\(\"(.*)\"\)\s+',response.xpath('//*[contains(@id,"ms-poi-mail-id")]/script').extract()[0]).group(1)
+            item['email'] = base64.b64decode(encoded_email)
         except Exception as e:
             self.logger.error("Error occured " + e.message)
         self.logger.info("item = " + str(item))
